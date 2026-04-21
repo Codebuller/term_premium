@@ -2,3 +2,5 @@
 .cache
 .pycache_local
 /output/
+__pycache__
+.mplconfig

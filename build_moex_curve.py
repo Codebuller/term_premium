@@ -102,7 +102,7 @@ def build_monthly_curve(daily_curve: pd.DataFrame, months: Sequence[int]) -> pd.
     columns = tenor_columns(months)
     monthly = (
         daily_curve.set_index("tradedate")[columns]
-        .resample("ME")
+        .resample("M")
         .mean()
         .rename_axis("month_end")
         .reset_index()

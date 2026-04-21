@@ -3,7 +3,6 @@ import pandas as pd
 
 from numpy.linalg import inv
 from sklearn.decomposition import PCA
-from statsmodels.tools.tools import add_constant
 
 
 class NominalACM:
@@ -169,7 +168,7 @@ class NominalACM:
             self.selected_maturities = selected_maturities
 
         if curve_m is None:
-            self.curve_monthly = curve.resample('ME').mean() # used mean, but exist variant with date-to-date that may perform robuster, cause more extimating shocks
+            self.curve_monthly = curve.resample('M').mean() # used mean, but exist variant with date-to-date that may perform robuster, cause more extimating shocks
         else:
             self.curve_monthly = curve_m
 
@@ -312,7 +311,7 @@ class NominalACM:
             proxy = proxy.groupby(level=0).mean()
 
         if not proxy.index.equals(self.curve_monthly.index):
-            proxy = proxy.resample('ME').mean()
+            proxy = proxy.resample('M').mean()
 
         proxy = proxy.reindex(self.curve_monthly.index)
         proxy = pd.to_numeric(proxy, errors='coerce')
@@ -453,10 +452,12 @@ class NominalACM:
     @staticmethod
     def _short_rate_equation(r1, X):
         r1 = pd.Series(r1).reindex(X.index)
-        X = add_constant(X)
-        Delta = inv(X.T @ X) @ X.T @ r1
-        delta0 = Delta.iloc[0]
-        delta1 = Delta.iloc[1:].values
+        X = X.copy()
+        X.insert(0, "const", 1.0)
+        Delta = inv(X.T @ X) @ X.T @ r1.to_numpy(dtype=float)
+        Delta = np.asarray(Delta).reshape(-1)
+        delta0 = Delta[0]
+        delta1 = Delta[1:]
         return delta0, delta1
 
     def _affine_coefficients(self, lambda0, lambda1):
