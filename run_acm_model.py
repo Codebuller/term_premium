@@ -51,15 +51,30 @@ def tenor_columns(df: pd.DataFrame) -> list[str]:
     )
 
 
-def to_acm_curve(curve_df: pd.DataFrame) -> pd.DataFrame:
+def normalize_curve_frame(curve_df: pd.DataFrame) -> pd.DataFrame:
     df = curve_df.copy()
-    df["date"] = pd.to_datetime(df["month_end"])
-    df = df.set_index("date").sort_index()
+    if not isinstance(df.index, pd.DatetimeIndex):
+        for candidate in ("month_end", "tradedate", "date", "datetime"):
+            if candidate in df.columns:
+                df["date"] = pd.to_datetime(df[candidate])
+                df = df.set_index("date")
+                break
+        else:
+            raise TypeError("`curve` must have a DatetimeIndex or a date/month_end column")
+
+    df.index = pd.to_datetime(df.index)
+    df = df.sort_index()
 
     curve_cols = tenor_columns(df)
     if not curve_cols:
         raise ValueError("No tenor columns found in the input curve")
 
+    return df[curve_cols].copy()
+
+
+def to_acm_curve(curve_df: pd.DataFrame) -> pd.DataFrame:
+    df = normalize_curve_frame(curve_df)
+    curve_cols = tenor_columns(df)
     yield_curve = df[curve_cols].copy()
     yield_curve.columns = [int(col[1:]) for col in curve_cols]
     yield_curve = np.log1p(yield_curve / 100.0)
@@ -86,22 +101,20 @@ def slice_monthly_curve(
     date_from: str | pd.Timestamp | None = None,
     date_to: str | pd.Timestamp | None = None,
 ) -> pd.DataFrame:
-    df = monthly_curve.copy()
-    df["month_end"] = pd.to_datetime(df["month_end"])
+    df = normalize_curve_frame(monthly_curve)
 
     start = None if date_from is None else pd.to_datetime(date_from)
     end = None if date_to is None else pd.to_datetime(date_to)
 
     if start is not None:
-        df = df.loc[df["month_end"] >= start]
+        df = df.loc[df.index >= start]
     if end is not None:
-        df = df.loc[df["month_end"] <= end]
+        df = df.loc[df.index <= end]
 
-    df = df.sort_values("month_end").reset_index(drop=True)
+    df = df.sort_index()
     if df.empty:
         raise ValueError("The requested date range produced an empty monthly curve")
 
-    df["month"] = df["month_end"].dt.to_period("M").astype(str)
     return df
 
 
@@ -225,6 +238,8 @@ def run_acm_model(
     dynamic_path: str | Path = DEFAULT_DYNAMIC_PATH,
     daily_output_path: str | Path = DEFAULT_DAILY_OUTPUT,
     monthly_output_path: str | Path = DEFAULT_MONTHLY_OUTPUT,
+    curve: pd.DataFrame | None = None,
+    curve_m: pd.DataFrame | None = None,
 ) -> ACMRunResult:
     """
     Run the project ACM model on the MOEX monthly curve with optional
@@ -241,26 +256,66 @@ def run_acm_model(
         - None / "curve_1m": use the first curve maturity
         - "ruonia_1m" or "ruonia": use RUONIA 1M proxy
         - pandas.Series / single-column pandas.DataFrame with DatetimeIndex
+    curve
+        Optional raw curve input in the same percentage format as the built
+        MOEX curve outputs. Can be daily or monthly. If omitted, the curve is
+        built from `dynamic_path`.
+    curve_m
+        Optional monthly curve input for estimation. If omitted, monthly
+        estimation data is obtained by resampling `curve` to month-end mean.
     n_factors
         Number of PCA factors.
     months
         Full curve tenors to build before filtering by date.
+    curve, curve_m
+        Optional raw curve inputs in the same percentage format as the built
+        MOEX curve outputs. `curve` can be daily or monthly. `curve_m`, when
+        supplied, overrides the monthly estimation curve.
     """
 
     months = [int(month) for month in months]
-    _, all_monthly_curve = build_moex_curve(
-        dynamic_path=dynamic_path,
-        daily_output_path=daily_output_path,
-        monthly_output_path=monthly_output_path,
-        months=months,
+    if curve is None:
+        all_daily_curve, all_monthly_curve = build_moex_curve(
+            dynamic_path=dynamic_path,
+            daily_output_path=daily_output_path,
+            monthly_output_path=monthly_output_path,
+            months=months,
+        )
+        raw_curve = all_daily_curve.set_index("tradedate").sort_index()
+        raw_curve = raw_curve[tenor_columns(raw_curve)]
+        monthly_source_curve = curve_m if curve_m is not None else all_monthly_curve
+        if curve_m is not None:
+            all_monthly_curve = monthly_source_curve.reset_index()
+            if "date" in all_monthly_curve.columns:
+                all_monthly_curve = all_monthly_curve.rename(columns={"date": "month_end"})
+            elif "index" in all_monthly_curve.columns:
+                all_monthly_curve = all_monthly_curve.rename(columns={"index": "month_end"})
+            all_monthly_curve["month_end"] = pd.to_datetime(all_monthly_curve["month_end"])
+            all_monthly_curve["month"] = all_monthly_curve["month_end"].dt.to_period("M").astype(str)
+    else:
+        raw_curve = normalize_curve_frame(curve)
+        monthly_source_curve = curve_m if curve_m is not None else raw_curve.resample("M").mean()
+        all_monthly_curve = monthly_source_curve.reset_index()
+        if "date" in all_monthly_curve.columns:
+            all_monthly_curve = all_monthly_curve.rename(columns={"date": "month_end"})
+        elif "index" in all_monthly_curve.columns:
+            all_monthly_curve = all_monthly_curve.rename(columns={"index": "month_end"})
+        all_monthly_curve["month_end"] = pd.to_datetime(all_monthly_curve["month_end"])
+        all_monthly_curve["month"] = all_monthly_curve["month_end"].dt.to_period("M").astype(str)
+
+    raw_curve = slice_monthly_curve(
+        monthly_curve=raw_curve,
+        date_from=date_from,
+        date_to=date_to,
     )
 
     monthly_curve = slice_monthly_curve(
-        monthly_curve=all_monthly_curve,
+        monthly_curve=monthly_source_curve,
         date_from=date_from,
         date_to=date_to,
     )
     yield_curve = to_acm_curve(monthly_curve)
+    raw_yield_curve = to_acm_curve(raw_curve)
 
     normalized_selected_maturities = normalize_selected_maturities(
         selected_maturities=selected_maturities,
@@ -273,12 +328,13 @@ def run_acm_model(
     )
 
     model = NominalACM(
-        curve=yield_curve,
+        curve=raw_yield_curve,
+        curve_m=yield_curve,
         n_factors=n_factors,
         selected_maturities=normalized_selected_maturities,
         short_rate_proxy=resolved_proxy,
     )
-    term_premium_frame = build_term_premium_frame(yield_curve=yield_curve, acm=model)
+    term_premium_frame = build_term_premium_frame(yield_curve=raw_yield_curve, acm=model)
     summary = build_summary(
         yield_curve=yield_curve,
         selected_maturities=normalized_selected_maturities,
@@ -305,4 +361,3 @@ def run_acm_model(
         term_premium_frame=term_premium_frame,
         summary=summary,
     )
-
