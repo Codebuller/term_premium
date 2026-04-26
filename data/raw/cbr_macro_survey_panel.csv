@@ -1,0 +1,1603 @@
+survey_type,statistic,survey_date,survey_label,forecast_period,forecast_period_label,value
+key_rate,10th percentile,2021-05-01,May 2021,2021-12-31,10th percentile,5.1
+key_rate,1st quartile,2021-05-01,May 2021,2021-12-31,1st quartile,5.101041666666666
+key_rate,3rd quartile,2021-05-01,May 2021,2021-12-31,3rd quartile,5.5
+key_rate,90th percentile,2021-05-01,May 2021,2021-12-31,90th percentile,5.720000000000001
+key_rate,Average,2021-05-01,May 2021,2021-12-31,Average,5.312403846153846
+key_rate,Max,2021-05-01,May 2021,2021-12-31,Max,5.75
+key_rate,Median,2021-05-01,May 2021,2021-12-31,Median,5.234999999999999
+key_rate,Min,2021-05-01,May 2021,2021-12-31,Min,4.85
+key_rate,Всего ответов,2021-05-01,May 2021,2021-12-31,Total answers,26.0
+key_rate,10th percentile,2021-05-01,May 2021,2022-12-31,,5.06
+key_rate,1st quartile,2021-05-01,May 2021,2022-12-31,,5.3125
+key_rate,3rd quartile,2021-05-01,May 2021,2022-12-31,,5.75
+key_rate,90th percentile,2021-05-01,May 2021,2022-12-31,,5.976
+key_rate,Average,2021-05-01,May 2021,2022-12-31,,5.5600000000000005
+key_rate,Max,2021-05-01,May 2021,2022-12-31,,7.0
+key_rate,Median,2021-05-01,May 2021,2022-12-31,,5.5
+key_rate,Min,2021-05-01,May 2021,2022-12-31,,4.5
+key_rate,Всего ответов,2021-05-01,May 2021,2022-12-31,,26.0
+key_rate,10th percentile,2021-05-01,May 2021,2023-12-31,,4.7
+key_rate,1st quartile,2021-05-01,May 2021,2023-12-31,,5.0
+key_rate,3rd quartile,2021-05-01,May 2021,2023-12-31,,5.6
+key_rate,90th percentile,2021-05-01,May 2021,2023-12-31,,5.75
+key_rate,Average,2021-05-01,May 2021,2023-12-31,,5.337847222222222
+key_rate,Max,2021-05-01,May 2021,2023-12-31,,6.5
+key_rate,Median,2021-05-01,May 2021,2023-12-31,,5.5
+key_rate,Min,2021-05-01,May 2021,2023-12-31,,4.5
+key_rate,Всего ответов,2021-05-01,May 2021,2023-12-31,,24.0
+key_rate,10th percentile,2021-07-01,July 2021,2021-12-31,10th percentile,5.3
+key_rate,1st quartile,2021-07-01,July 2021,2021-12-31,1st quartile,5.4
+key_rate,3rd quartile,2021-07-01,July 2021,2021-12-31,3rd quartile,5.7
+key_rate,90th percentile,2021-07-01,July 2021,2021-12-31,90th percentile,6.300000000000001
+key_rate,Average,2021-07-01,July 2021,2021-12-31,Average,5.6513580645161285
+key_rate,Max,2021-07-01,July 2021,2021-12-31,Max,7.0
+key_rate,Median,2021-07-01,July 2021,2021-12-31,Median,5.51
+key_rate,Min,2021-07-01,July 2021,2021-12-31,Min,5.2
+key_rate,Всего ответов,2021-07-01,July 2021,2021-12-31,Total answers,25.0
+key_rate,10th percentile,2021-07-01,July 2021,2022-12-31,,5.5
+key_rate,1st quartile,2021-07-01,July 2021,2022-12-31,,5.7
+key_rate,3rd quartile,2021-07-01,July 2021,2022-12-31,,6.4
+key_rate,90th percentile,2021-07-01,July 2021,2022-12-31,,6.56
+key_rate,Average,2021-07-01,July 2021,2022-12-31,,5.9928
+key_rate,Max,2021-07-01,July 2021,2022-12-31,,7.0
+key_rate,Median,2021-07-01,July 2021,2022-12-31,,6.0
+key_rate,Min,2021-07-01,July 2021,2022-12-31,,4.5
+key_rate,Всего ответов,2021-07-01,July 2021,2022-12-31,,25.0
+key_rate,10th percentile,2021-07-01,July 2021,2023-12-31,,5.0
+key_rate,1st quartile,2021-07-01,July 2021,2023-12-31,,5.175
+key_rate,3rd quartile,2021-07-01,July 2021,2023-12-31,,6.0
+key_rate,90th percentile,2021-07-01,July 2021,2023-12-31,,6.17
+key_rate,Average,2021-07-01,July 2021,2023-12-31,,5.531340579710145
+key_rate,Max,2021-07-01,July 2021,2023-12-31,,6.4
+key_rate,Median,2021-07-01,July 2021,2023-12-31,,5.5
+key_rate,Min,2021-07-01,July 2021,2023-12-31,,4.5
+key_rate,Всего ответов,2021-07-01,July 2021,2023-12-31,,23.0
+key_rate,10th percentile,2021-09-01,September 2021,2021-12-31,10th percentile,5.5
+key_rate,1st quartile,2021-09-01,September 2021,2021-12-31,1st quartile,5.6
+key_rate,3rd quartile,2021-09-01,September 2021,2021-12-31,3rd quartile,5.73
+key_rate,90th percentile,2021-09-01,September 2021,2021-12-31,90th percentile,5.8
+key_rate,Average,2021-09-01,September 2021,2021-12-31,Average,5.69258064516129
+key_rate,Max,2021-09-01,September 2021,2021-12-31,Max,6.5
+key_rate,Median,2021-09-01,September 2021,2021-12-31,Median,5.66
+key_rate,Min,2021-09-01,September 2021,2021-12-31,Min,5.2
+key_rate,Всего ответов,2021-09-01,September 2021,2021-12-31,Total answers,31.0
+key_rate,10th percentile,2021-09-01,September 2021,2022-12-31,,5.8
+key_rate,1st quartile,2021-09-01,September 2021,2022-12-31,,6.0
+key_rate,3rd quartile,2021-09-01,September 2021,2022-12-31,,6.525
+key_rate,90th percentile,2021-09-01,September 2021,2022-12-31,,6.7
+key_rate,Average,2021-09-01,September 2021,2022-12-31,,6.248064516129031
+key_rate,Max,2021-09-01,September 2021,2022-12-31,,6.9
+key_rate,Median,2021-09-01,September 2021,2022-12-31,,6.25
+key_rate,Min,2021-09-01,September 2021,2022-12-31,,5.4
+key_rate,Всего ответов,2021-09-01,September 2021,2022-12-31,,31.0
+key_rate,10th percentile,2021-09-01,September 2021,2023-12-31,,5.0
+key_rate,1st quartile,2021-09-01,September 2021,2023-12-31,,5.45
+key_rate,3rd quartile,2021-09-01,September 2021,2023-12-31,,5.725
+key_rate,90th percentile,2021-09-01,September 2021,2023-12-31,,6.220000000000001
+key_rate,Average,2021-09-01,September 2021,2023-12-31,,5.566666666666666
+key_rate,Max,2021-09-01,September 2021,2023-12-31,,6.8
+key_rate,Median,2021-09-01,September 2021,2023-12-31,,5.5
+key_rate,Min,2021-09-01,September 2021,2023-12-31,,4.5
+key_rate,Всего ответов,2021-09-01,September 2021,2023-12-31,,27.0
+key_rate,10th percentile,2021-10-01,October 2021,2021-12-31,10th percentile,5.6
+key_rate,1st quartile,2021-10-01,October 2021,2021-12-31,1st quartile,5.64
+key_rate,3rd quartile,2021-10-01,October 2021,2021-12-31,3rd quartile,5.71
+key_rate,90th percentile,2021-10-01,October 2021,2021-12-31,90th percentile,5.814
+key_rate,Average,2021-10-01,October 2021,2021-12-31,Average,5.697766666666666
+key_rate,Max,2021-10-01,October 2021,2021-12-31,Max,5.9
+key_rate,Median,2021-10-01,October 2021,2021-12-31,Median,5.7
+key_rate,Min,2021-10-01,October 2021,2021-12-31,Min,5.5
+key_rate,Всего ответов,2021-10-01,October 2021,2021-12-31,Total answers,25.0
+key_rate,10th percentile,2021-10-01,October 2021,2022-12-31,,6.285
+key_rate,1st quartile,2021-10-01,October 2021,2022-12-31,,6.5
+key_rate,3rd quartile,2021-10-01,October 2021,2022-12-31,,7.0582692307692305
+key_rate,90th percentile,2021-10-01,October 2021,2022-12-31,,7.1625
+key_rate,Average,2021-10-01,October 2021,2022-12-31,,6.744024725274726
+key_rate,Max,2021-10-01,October 2021,2022-12-31,,7.4
+key_rate,Median,2021-10-01,October 2021,2022-12-31,,6.8
+key_rate,Min,2021-10-01,October 2021,2022-12-31,,5.5
+key_rate,Всего ответов,2021-10-01,October 2021,2022-12-31,,28.0
+key_rate,10th percentile,2021-10-01,October 2021,2023-12-31,,5.34
+key_rate,1st quartile,2021-10-01,October 2021,2023-12-31,,5.5
+key_rate,3rd quartile,2021-10-01,October 2021,2023-12-31,,6.0
+key_rate,90th percentile,2021-10-01,October 2021,2023-12-31,,6.323333333333334
+key_rate,Average,2021-10-01,October 2021,2023-12-31,,5.701533333333334
+key_rate,Max,2021-10-01,October 2021,2023-12-31,,6.5
+key_rate,Median,2021-10-01,October 2021,2023-12-31,,5.6
+key_rate,Min,2021-10-01,October 2021,2023-12-31,,4.5
+key_rate,Всего ответов,2021-10-01,October 2021,2023-12-31,,25.0
+key_rate,10th percentile,2021-10-01,October 2021,2024-12-31,,5.0
+key_rate,1st quartile,2021-10-01,October 2021,2024-12-31,,5.34375
+key_rate,3rd quartile,2021-10-01,October 2021,2024-12-31,,5.5
+key_rate,90th percentile,2021-10-01,October 2021,2024-12-31,,6.0
+key_rate,Average,2021-10-01,October 2021,2024-12-31,,5.551630434782608
+key_rate,Max,2021-10-01,October 2021,2024-12-31,,7.2
+key_rate,Median,2021-10-01,October 2021,2024-12-31,,5.5
+key_rate,Min,2021-10-01,October 2021,2024-12-31,,5.0
+key_rate,Всего ответов,2021-10-01,October 2021,2024-12-31,,23.0
+key_rate,10th percentile,2021-12-01,December 2021,2021-12-31,10th percentile,5.75
+key_rate,1st quartile,2021-12-01,December 2021,2021-12-31,1st quartile,5.75
+key_rate,3rd quartile,2021-12-01,December 2021,2021-12-31,3rd quartile,5.8
+key_rate,90th percentile,2021-12-01,December 2021,2021-12-31,90th percentile,5.854807692307692
+key_rate,Average,2021-12-01,December 2021,2021-12-31,Average,5.791579074464348
+key_rate,Max,2021-12-01,December 2021,2021-12-31,Max,5.98
+key_rate,Median,2021-12-01,December 2021,2021-12-31,Median,5.77
+key_rate,Min,2021-12-01,December 2021,2021-12-31,Min,5.7
+key_rate,Всего ответов,2021-12-01,December 2021,2021-12-31,Total answers,24.0
+key_rate,10th percentile,2021-12-01,December 2021,2022-12-31,,7.325
+key_rate,1st quartile,2021-12-01,December 2021,2022-12-31,,7.7
+key_rate,3rd quartile,2021-12-01,December 2021,2022-12-31,,8.4
+key_rate,90th percentile,2021-12-01,December 2021,2022-12-31,,8.833
+key_rate,Average,2021-12-01,December 2021,2022-12-31,,7.9408573717948725
+key_rate,Max,2021-12-01,December 2021,2022-12-31,,9.0
+key_rate,Median,2021-12-01,December 2021,2022-12-31,,7.825
+key_rate,Min,2021-12-01,December 2021,2022-12-31,,6.3
+key_rate,Всего ответов,2021-12-01,December 2021,2022-12-31,,24.0
+key_rate,10th percentile,2021-12-01,December 2021,2023-12-31,,5.5
+key_rate,1st quartile,2021-12-01,December 2021,2023-12-31,,5.892307692307693
+key_rate,3rd quartile,2021-12-01,December 2021,2023-12-31,,6.8125
+key_rate,90th percentile,2021-12-01,December 2021,2023-12-31,,7.3
+key_rate,Average,2021-12-01,December 2021,2023-12-31,,6.343044871794871
+key_rate,Max,2021-12-01,December 2021,2023-12-31,,7.5
+key_rate,Median,2021-12-01,December 2021,2023-12-31,,6.3
+key_rate,Min,2021-12-01,December 2021,2023-12-31,,5.25
+key_rate,Всего ответов,2021-12-01,December 2021,2023-12-31,,24.0
+key_rate,10th percentile,2021-12-01,December 2021,2024-12-31,,5.025
+key_rate,1st quartile,2021-12-01,December 2021,2024-12-31,,5.5
+key_rate,3rd quartile,2021-12-01,December 2021,2024-12-31,,6.0
+key_rate,90th percentile,2021-12-01,December 2021,2024-12-31,,6.09
+key_rate,Average,2021-12-01,December 2021,2024-12-31,,5.668636363636363
+key_rate,Max,2021-12-01,December 2021,2024-12-31,,7.3
+key_rate,Median,2021-12-01,December 2021,2024-12-31,,5.5
+key_rate,Min,2021-12-01,December 2021,2024-12-31,,4.5
+key_rate,Всего ответов,2021-12-01,December 2021,2024-12-31,,22.0
+key_rate,10th percentile,2022-02-01,February 2022,2022-12-31,,8.16
+key_rate,1st quartile,2022-02-01,February 2022,2022-12-31,,8.49
+key_rate,3rd quartile,2022-02-01,February 2022,2022-12-31,,9.3625
+key_rate,90th percentile,2022-02-01,February 2022,2022-12-31,,9.639999999999999
+key_rate,Average,2022-02-01,February 2022,2022-12-31,,8.929672023182297
+key_rate,Max,2022-02-01,February 2022,2022-12-31,,10.0
+key_rate,Median,2022-02-01,February 2022,2022-12-31,,9.075
+key_rate,Min,2022-02-01,February 2022,2022-12-31,,7.3
+key_rate,Всего ответов,2022-02-01,February 2022,2022-12-31,,24.0
+key_rate,10th percentile,2022-02-01,February 2022,2023-12-31,,6.03
+key_rate,1st quartile,2022-02-01,February 2022,2023-12-31,,6.534807692307693
+key_rate,3rd quartile,2022-02-01,February 2022,2023-12-31,,7.825
+key_rate,90th percentile,2022-02-01,February 2022,2023-12-31,,8.0
+key_rate,Average,2022-02-01,February 2022,2023-12-31,,7.1848637820512815
+key_rate,Max,2022-02-01,February 2022,2023-12-31,,8.5
+key_rate,Median,2022-02-01,February 2022,2023-12-31,,7.3
+key_rate,Min,2022-02-01,February 2022,2023-12-31,,5.7
+key_rate,Всего ответов,2022-02-01,February 2022,2023-12-31,,24.0
+key_rate,10th percentile,2022-02-01,February 2022,2024-12-31,,5.25
+key_rate,1st quartile,2022-02-01,February 2022,2024-12-31,,5.5
+key_rate,3rd quartile,2022-02-01,February 2022,2024-12-31,,6.5
+key_rate,90th percentile,2022-02-01,February 2022,2024-12-31,,6.625
+key_rate,Average,2022-02-01,February 2022,2024-12-31,,6.001190476190477
+key_rate,Max,2022-02-01,February 2022,2024-12-31,,7.5
+key_rate,Median,2022-02-01,February 2022,2024-12-31,,6.0
+key_rate,Min,2022-02-01,February 2022,2024-12-31,,5.0
+key_rate,Всего ответов,2022-02-01,February 2022,2024-12-31,,21.0
+key_rate,10th percentile,2022-03-01,March 2022,2022-12-31,,14.82
+key_rate,1st quartile,2022-03-01,March 2022,2022-12-31,,16.675
+key_rate,3rd quartile,2022-03-01,March 2022,2022-12-31,,20.827808219178085
+key_rate,90th percentile,2022-03-01,March 2022,2022-12-31,,23.6
+key_rate,Average,2022-03-01,March 2022,2022-12-31,,19.12446727549467
+key_rate,Max,2022-03-01,March 2022,2022-12-31,,25.0
+key_rate,Median,2022-03-01,March 2022,2022-12-31,,18.855
+key_rate,Min,2022-03-01,March 2022,2022-12-31,,14.0
+key_rate,Всего ответов,2022-03-01,March 2022,2022-12-31,,18.0
+key_rate,10th percentile,2022-03-01,March 2022,2023-12-31,,10.9
+key_rate,1st quartile,2022-03-01,March 2022,2023-12-31,,12.0
+key_rate,3rd quartile,2022-03-01,March 2022,2023-12-31,,15.0
+key_rate,90th percentile,2022-03-01,March 2022,2023-12-31,,16.0
+key_rate,Average,2022-03-01,March 2022,2023-12-31,,13.499019607843136
+key_rate,Max,2022-03-01,March 2022,2023-12-31,,17.4
+key_rate,Median,2022-03-01,March 2022,2023-12-31,,14.083333333333334
+key_rate,Min,2022-03-01,March 2022,2023-12-31,,8.0
+key_rate,Всего ответов,2022-03-01,March 2022,2023-12-31,,17.0
+key_rate,10th percentile,2022-03-01,March 2022,2024-12-31,,6.5
+key_rate,1st quartile,2022-03-01,March 2022,2024-12-31,,7.0
+key_rate,3rd quartile,2022-03-01,March 2022,2024-12-31,,9.025
+key_rate,90th percentile,2022-03-01,March 2022,2024-12-31,,10.75
+key_rate,Average,2022-03-01,March 2022,2024-12-31,,8.1375
+key_rate,Max,2022-03-01,March 2022,2024-12-31,,12.0
+key_rate,Median,2022-03-01,March 2022,2024-12-31,,7.75
+key_rate,Min,2022-03-01,March 2022,2024-12-31,,5.0
+key_rate,Всего ответов,2022-03-01,March 2022,2024-12-31,,16.0
+key_rate,10th percentile,2022-04-01,April 2022,2022-12-31,,12.24
+key_rate,1st quartile,2022-04-01,April 2022,2022-12-31,,13.34
+key_rate,3rd quartile,2022-04-01,April 2022,2022-12-31,,14.75
+key_rate,90th percentile,2022-04-01,April 2022,2022-12-31,,15.0
+key_rate,Average,2022-04-01,April 2022,2022-12-31,,14.011302735823287
+key_rate,Max,2022-04-01,April 2022,2022-12-31,,20.0
+key_rate,Median,2022-04-01,April 2022,2022-12-31,,14.5
+key_rate,Min,2022-04-01,April 2022,2022-12-31,,9.0
+key_rate,Всего ответов,2022-04-01,April 2022,2022-12-31,,27.0
+key_rate,10th percentile,2022-04-01,April 2022,2023-12-31,,7.184615384615385
+key_rate,1st quartile,2022-04-01,April 2022,2023-12-31,,9.0
+key_rate,3rd quartile,2022-04-01,April 2022,2023-12-31,,11.55
+key_rate,90th percentile,2022-04-01,April 2022,2023-12-31,,12.0
+key_rate,Average,2022-04-01,April 2022,2023-12-31,,10.069358974358975
+key_rate,Max,2022-04-01,April 2022,2023-12-31,,12.5
+key_rate,Median,2022-04-01,April 2022,2023-12-31,,10.375
+key_rate,Min,2022-04-01,April 2022,2023-12-31,,6.0
+key_rate,Всего ответов,2022-04-01,April 2022,2023-12-31,,27.0
+key_rate,10th percentile,2022-04-01,April 2022,2024-12-31,,6.0
+key_rate,1st quartile,2022-04-01,April 2022,2024-12-31,,6.5
+key_rate,3rd quartile,2022-04-01,April 2022,2024-12-31,,8.2
+key_rate,90th percentile,2022-04-01,April 2022,2024-12-31,,8.92
+key_rate,Average,2022-04-01,April 2022,2024-12-31,,7.3398
+key_rate,Max,2022-04-01,April 2022,2024-12-31,,9.5
+key_rate,Median,2022-04-01,April 2022,2024-12-31,,7.5
+key_rate,Min,2022-04-01,April 2022,2024-12-31,,4.0
+key_rate,Всего ответов,2022-04-01,April 2022,2024-12-31,,25.0
+key_rate,10th percentile,2022-06-01,June 2022,2022-12-31,,10.2
+key_rate,1st quartile,2022-06-01,June 2022,2022-12-31,,10.825000000000001
+key_rate,3rd quartile,2022-06-01,June 2022,2022-12-31,,11.649999999999999
+key_rate,90th percentile,2022-06-01,June 2022,2022-12-31,,13.45
+key_rate,Average,2022-06-01,June 2022,2022-12-31,,11.403830347734457
+key_rate,Max,2022-06-01,June 2022,2022-12-31,,15.0
+key_rate,Median,2022-06-01,June 2022,2022-12-31,,11.11
+key_rate,Min,2022-06-01,June 2022,2022-12-31,,9.0
+key_rate,Всего ответов,2022-06-01,June 2022,2022-12-31,,26.0
+key_rate,10th percentile,2022-06-01,June 2022,2023-12-31,,7.0
+key_rate,1st quartile,2022-06-01,June 2022,2023-12-31,,7.33
+key_rate,3rd quartile,2022-06-01,June 2022,2023-12-31,,9.0
+key_rate,90th percentile,2022-06-01,June 2022,2023-12-31,,9.72
+key_rate,Average,2022-06-01,June 2022,2023-12-31,,8.220533333333334
+key_rate,Max,2022-06-01,June 2022,2023-12-31,,12.5
+key_rate,Median,2022-06-01,June 2022,2023-12-31,,8.0
+key_rate,Min,2022-06-01,June 2022,2023-12-31,,6.0
+key_rate,Всего ответов,2022-06-01,June 2022,2023-12-31,,25.0
+key_rate,10th percentile,2022-06-01,June 2022,2024-12-31,,5.5
+key_rate,1st quartile,2022-06-01,June 2022,2024-12-31,,6.0
+key_rate,3rd quartile,2022-06-01,June 2022,2024-12-31,,7.5
+key_rate,90th percentile,2022-06-01,June 2022,2024-12-31,,8.0
+key_rate,Average,2022-06-01,June 2022,2024-12-31,,6.954833333333333
+key_rate,Max,2022-06-01,June 2022,2024-12-31,,11.0
+key_rate,Median,2022-06-01,June 2022,2024-12-31,,7.0
+key_rate,Min,2022-06-01,June 2022,2024-12-31,,5.0
+key_rate,Всего ответов,2022-06-01,June 2022,2024-12-31,,25.0
+key_rate,10th percentile,2022-06-01,June 2022,2025-12-31,,5.0
+key_rate,1st quartile,2022-06-01,June 2022,2025-12-31,,5.5
+key_rate,3rd quartile,2022-06-01,June 2022,2025-12-31,,7.0
+key_rate,90th percentile,2022-06-01,June 2022,2025-12-31,,7.5
+key_rate,Average,2022-06-01,June 2022,2025-12-31,,6.392857142857143
+key_rate,Max,2022-06-01,June 2022,2025-12-31,,9.0
+key_rate,Median,2022-06-01,June 2022,2025-12-31,,6.25
+key_rate,Min,2022-06-01,June 2022,2025-12-31,,5.0
+key_rate,Всего ответов,2022-06-01,June 2022,2025-12-31,,21.0
+key_rate,10th percentile,2022-07-01,July 2022,2022-12-31,,10.75
+key_rate,1st quartile,2022-07-01,July 2022,2022-12-31,,10.8625
+key_rate,3rd quartile,2022-07-01,July 2022,2022-12-31,,11.113885613207547
+key_rate,90th percentile,2022-07-01,July 2022,2022-12-31,,11.6
+key_rate,Average,2022-07-01,July 2022,2022-12-31,,11.08494285195936
+key_rate,Max,2022-07-01,July 2022,2022-12-31,,12.1
+key_rate,Median,2022-07-01,July 2022,2022-12-31,,10.975
+key_rate,Min,2022-07-01,July 2022,2022-12-31,,10.7
+key_rate,Всего ответов,2022-07-01,July 2022,2022-12-31,,26.0
+key_rate,10th percentile,2022-07-01,July 2022,2023-12-31,,7.15
+key_rate,1st quartile,2022-07-01,July 2022,2023-12-31,,7.3475
+key_rate,3rd quartile,2022-07-01,July 2022,2023-12-31,,7.925
+key_rate,90th percentile,2022-07-01,July 2022,2023-12-31,,8.6
+key_rate,Average,2022-07-01,July 2022,2023-12-31,,7.68625
+key_rate,Max,2022-07-01,July 2022,2023-12-31,,10.0
+key_rate,Median,2022-07-01,July 2022,2023-12-31,,7.5
+key_rate,Min,2022-07-01,July 2022,2023-12-31,,6.0
+key_rate,Всего ответов,2022-07-01,July 2022,2023-12-31,,26.0
+key_rate,10th percentile,2022-07-01,July 2022,2024-12-31,,5.85
+key_rate,1st quartile,2022-07-01,July 2022,2024-12-31,,6.5
+key_rate,3rd quartile,2022-07-01,July 2022,2024-12-31,,7.0
+key_rate,90th percentile,2022-07-01,July 2022,2024-12-31,,7.800000000000001
+key_rate,Average,2022-07-01,July 2022,2024-12-31,,6.61
+key_rate,Max,2022-07-01,July 2022,2024-12-31,,8.0
+key_rate,Median,2022-07-01,July 2022,2024-12-31,,6.5
+key_rate,Min,2022-07-01,July 2022,2024-12-31,,4.0
+key_rate,Всего ответов,2022-07-01,July 2022,2024-12-31,,25.0
+key_rate,10th percentile,2022-07-01,July 2022,2025-12-31,,5.1
+key_rate,1st quartile,2022-07-01,July 2022,2025-12-31,,5.55
+key_rate,3rd quartile,2022-07-01,July 2022,2025-12-31,,6.625
+key_rate,90th percentile,2022-07-01,July 2022,2025-12-31,,7.0
+key_rate,Average,2022-07-01,July 2022,2025-12-31,,6.102173913043478
+key_rate,Max,2022-07-01,July 2022,2025-12-31,,7.5
+key_rate,Median,2022-07-01,July 2022,2025-12-31,,6.0
+key_rate,Min,2022-07-01,July 2022,2025-12-31,,4.0
+key_rate,Всего ответов,2022-07-01,July 2022,2025-12-31,,23.0
+key_rate,10th percentile,2022-09-01,September 2022,2022-12-31,,9.5
+key_rate,1st quartile,2022-09-01,September 2022,2022-12-31,,10.079999999999998
+key_rate,3rd quartile,2022-09-01,September 2022,2022-12-31,,10.598082191780822
+key_rate,90th percentile,2022-09-01,September 2022,2022-12-31,,10.7
+key_rate,Average,2022-09-01,September 2022,2022-12-31,,10.149533719704952
+key_rate,Max,2022-09-01,September 2022,2022-12-31,,11.1
+key_rate,Median,2022-09-01,September 2022,2022-12-31,,10.5
+key_rate,Min,2022-09-01,September 2022,2022-12-31,,7.0
+key_rate,Всего ответов,2022-09-01,September 2022,2022-12-31,,26.0
+key_rate,10th percentile,2022-09-01,September 2022,2023-12-31,,6.1
+key_rate,1st quartile,2022-09-01,September 2022,2023-12-31,,6.5
+key_rate,3rd quartile,2022-09-01,September 2022,2023-12-31,,7.225
+key_rate,90th percentile,2022-09-01,September 2022,2023-12-31,,7.5
+key_rate,Average,2022-09-01,September 2022,2023-12-31,,6.816428257815245
+key_rate,Max,2022-09-01,September 2022,2023-12-31,,8.0
+key_rate,Median,2022-09-01,September 2022,2023-12-31,,6.76
+key_rate,Min,2022-09-01,September 2022,2023-12-31,,5.7
+key_rate,Всего ответов,2022-09-01,September 2022,2023-12-31,,26.0
+key_rate,10th percentile,2022-09-01,September 2022,2024-12-31,,5.44
+key_rate,1st quartile,2022-09-01,September 2022,2024-12-31,,5.75
+key_rate,3rd quartile,2022-09-01,September 2022,2024-12-31,,6.6
+key_rate,90th percentile,2022-09-01,September 2022,2024-12-31,,7.0
+key_rate,Average,2022-09-01,September 2022,2024-12-31,,6.192082513661202
+key_rate,Max,2022-09-01,September 2022,2024-12-31,,7.5
+key_rate,Median,2022-09-01,September 2022,2024-12-31,,6.1
+key_rate,Min,2022-09-01,September 2022,2024-12-31,,5.0
+key_rate,Всего ответов,2022-09-01,September 2022,2024-12-31,,25.0
+key_rate,10th percentile,2022-09-01,September 2022,2025-12-31,,4.9
+key_rate,1st quartile,2022-09-01,September 2022,2025-12-31,,5.5
+key_rate,3rd quartile,2022-09-01,September 2022,2025-12-31,,6.0
+key_rate,90th percentile,2022-09-01,September 2022,2025-12-31,,6.85
+key_rate,Average,2022-09-01,September 2022,2025-12-31,,5.735416666666667
+key_rate,Max,2022-09-01,September 2022,2025-12-31,,7.0
+key_rate,Median,2022-09-01,September 2022,2025-12-31,,5.675
+key_rate,Min,2022-09-01,September 2022,2025-12-31,,4.0
+key_rate,Всего ответов,2022-09-01,September 2022,2025-12-31,,24.0
+key_rate,10th percentile,2022-10-01,October 2022,2022-12-31,,10.225
+key_rate,1st quartile,2022-10-01,October 2022,2022-12-31,,10.5
+key_rate,3rd quartile,2022-10-01,October 2022,2022-12-31,,10.6
+key_rate,90th percentile,2022-10-01,October 2022,2022-12-31,,10.625273972602741
+key_rate,Average,2022-10-01,October 2022,2022-12-31,,10.493867228661749
+key_rate,Max,2022-10-01,October 2022,2022-12-31,,10.8
+key_rate,Median,2022-10-01,October 2022,2022-12-31,,10.58
+key_rate,Min,2022-10-01,October 2022,2022-12-31,,9.6
+key_rate,Всего ответов,2022-10-01,October 2022,2022-12-31,,26.0
+key_rate,10th percentile,2022-10-01,October 2022,2023-12-31,,6.455
+key_rate,1st quartile,2022-10-01,October 2022,2023-12-31,,6.7875
+key_rate,3rd quartile,2022-10-01,October 2022,2023-12-31,,7.5
+key_rate,90th percentile,2022-10-01,October 2022,2023-12-31,,7.958333333333334
+key_rate,Average,2022-10-01,October 2022,2023-12-31,,7.209244819107832
+key_rate,Max,2022-10-01,October 2022,2023-12-31,,8.813698630136987
+key_rate,Median,2022-10-01,October 2022,2023-12-31,,7.1
+key_rate,Min,2022-10-01,October 2022,2023-12-31,,6.0
+key_rate,Всего ответов,2022-10-01,October 2022,2023-12-31,,26.0
+key_rate,10th percentile,2022-10-01,October 2022,2024-12-31,,5.72
+key_rate,1st quartile,2022-10-01,October 2022,2024-12-31,,6.1
+key_rate,3rd quartile,2022-10-01,October 2022,2024-12-31,,6.8
+key_rate,90th percentile,2022-10-01,October 2022,2024-12-31,,7.5
+key_rate,Average,2022-10-01,October 2022,2024-12-31,,6.519000000000001
+key_rate,Max,2022-10-01,October 2022,2024-12-31,,8.1
+key_rate,Median,2022-10-01,October 2022,2024-12-31,,6.4
+key_rate,Min,2022-10-01,October 2022,2024-12-31,,5.3
+key_rate,Всего ответов,2022-10-01,October 2022,2024-12-31,,25.0
+key_rate,10th percentile,2022-10-01,October 2022,2025-12-31,,5.5
+key_rate,1st quartile,2022-10-01,October 2022,2025-12-31,,5.5
+key_rate,3rd quartile,2022-10-01,October 2022,2025-12-31,,6.0
+key_rate,90th percentile,2022-10-01,October 2022,2025-12-31,,7.0
+key_rate,Average,2022-10-01,October 2022,2025-12-31,,5.977083333333333
+key_rate,Max,2022-10-01,October 2022,2025-12-31,,8.0
+key_rate,Median,2022-10-01,October 2022,2025-12-31,,6.0
+key_rate,Min,2022-10-01,October 2022,2025-12-31,,4.8
+key_rate,Всего ответов,2022-10-01,October 2022,2025-12-31,,24.0
+key_rate,10th percentile,2022-12-01,December 2022,2022-12-31,,10.23
+key_rate,1st quartile,2022-12-01,December 2022,2022-12-31,,10.5
+key_rate,3rd quartile,2022-12-01,December 2022,2022-12-31,,10.6
+key_rate,90th percentile,2022-12-01,December 2022,2022-12-31,,10.668219178082191
+key_rate,Average,2022-12-01,December 2022,2022-12-31,,10.523252156265855
+key_rate,Max,2022-12-01,December 2022,2022-12-31,,10.8
+key_rate,Median,2022-12-01,December 2022,2022-12-31,,10.6
+key_rate,Min,2022-12-01,December 2022,2022-12-31,,9.8
+key_rate,Всего ответов,2022-12-01,December 2022,2022-12-31,,27.0
+key_rate,10th percentile,2022-12-01,December 2022,2023-12-31,,6.75
+key_rate,1st quartile,2022-12-01,December 2022,2023-12-31,,7.046666666666667
+key_rate,3rd quartile,2022-12-01,December 2022,2023-12-31,,7.5
+key_rate,90th percentile,2022-12-01,December 2022,2023-12-31,,8.040000000000001
+key_rate,Average,2022-12-01,December 2022,2023-12-31,,7.342897006595637
+key_rate,Max,2022-12-01,December 2022,2023-12-31,,8.608219178082193
+key_rate,Median,2022-12-01,December 2022,2023-12-31,,7.3
+key_rate,Min,2022-12-01,December 2022,2023-12-31,,6.291666666666667
+key_rate,Всего ответов,2022-12-01,December 2022,2023-12-31,,27.0
+key_rate,10th percentile,2022-12-01,December 2022,2024-12-31,,5.896
+key_rate,1st quartile,2022-12-01,December 2022,2024-12-31,,6.4
+key_rate,3rd quartile,2022-12-01,December 2022,2024-12-31,,7.0
+key_rate,90th percentile,2022-12-01,December 2022,2024-12-31,,7.5
+key_rate,Average,2022-12-01,December 2022,2024-12-31,,6.662962962962963
+key_rate,Max,2022-12-01,December 2022,2024-12-31,,8.0
+key_rate,Median,2022-12-01,December 2022,2024-12-31,,6.6
+key_rate,Min,2022-12-01,December 2022,2024-12-31,,5.25
+key_rate,Всего ответов,2022-12-01,December 2022,2024-12-31,,27.0
+key_rate,10th percentile,2022-12-01,December 2022,2025-12-31,,5.5
+key_rate,1st quartile,2022-12-01,December 2022,2025-12-31,,5.7
+key_rate,3rd quartile,2022-12-01,December 2022,2025-12-31,,6.4375
+key_rate,90th percentile,2022-12-01,December 2022,2025-12-31,,7.0
+key_rate,Average,2022-12-01,December 2022,2025-12-31,,6.038461538461538
+key_rate,Max,2022-12-01,December 2022,2025-12-31,,7.0
+key_rate,Median,2022-12-01,December 2022,2025-12-31,,6.0
+key_rate,Min,2022-12-01,December 2022,2025-12-31,,4.75
+key_rate,Всего ответов,2022-12-01,December 2022,2025-12-31,,26.0
+key_rate,10th percentile,2023-02-01,February 2023,2023-12-31,,7.0
+key_rate,1st quartile,2023-02-01,February 2023,2023-12-31,,7.0179109589041095
+key_rate,3rd quartile,2023-02-01,February 2023,2023-12-31,,7.5
+key_rate,90th percentile,2023-02-01,February 2023,2023-12-31,,8.0
+key_rate,Average,2023-02-01,February 2023,2023-12-31,,7.412102902804959
+key_rate,Max,2023-02-01,February 2023,2023-12-31,,8.33
+key_rate,Median,2023-02-01,February 2023,2023-12-31,,7.470000000000001
+key_rate,Min,2023-02-01,February 2023,2023-12-31,,6.8
+key_rate,Всего ответов,2023-02-01,February 2023,2023-12-31,,28.0
+key_rate,10th percentile,2023-02-01,February 2023,2024-12-31,,6.17
+key_rate,1st quartile,2023-02-01,February 2023,2024-12-31,,6.5
+key_rate,3rd quartile,2023-02-01,February 2023,2024-12-31,,7.172499999999999
+key_rate,90th percentile,2023-02-01,February 2023,2024-12-31,,7.515
+key_rate,Average,2023-02-01,February 2023,2024-12-31,,6.820714285714287
+key_rate,Max,2023-02-01,February 2023,2024-12-31,,8.0
+key_rate,Median,2023-02-01,February 2023,2024-12-31,,6.75
+key_rate,Min,2023-02-01,February 2023,2024-12-31,,5.59
+key_rate,Всего ответов,2023-02-01,February 2023,2024-12-31,,28.0
+key_rate,10th percentile,2023-02-01,February 2023,2025-12-31,,5.62
+key_rate,1st quartile,2023-02-01,February 2023,2025-12-31,,5.825
+key_rate,3rd quartile,2023-02-01,February 2023,2025-12-31,,6.55
+key_rate,90th percentile,2023-02-01,February 2023,2025-12-31,,7.0
+key_rate,Average,2023-02-01,February 2023,2025-12-31,,6.185185185185185
+key_rate,Max,2023-02-01,February 2023,2025-12-31,,7.5
+key_rate,Median,2023-02-01,February 2023,2025-12-31,,6.0
+key_rate,Min,2023-02-01,February 2023,2025-12-31,,5.0
+key_rate,Всего ответов,2023-02-01,February 2023,2025-12-31,,27.0
+key_rate,10th percentile,2023-03-01,March 2023,2023-12-31,,7.157
+key_rate,1st quartile,2023-03-01,March 2023,2023-12-31,,7.37875
+key_rate,3rd quartile,2023-03-01,March 2023,2023-12-31,,7.785
+key_rate,90th percentile,2023-03-01,March 2023,2023-12-31,,7.9399999999999995
+key_rate,Average,2023-03-01,March 2023,2023-12-31,,7.435624999999999
+key_rate,Max,2023-03-01,March 2023,2023-12-31,,8.25
+key_rate,Median,2023-03-01,March 2023,2023-12-31,,7.5
+key_rate,Min,2023-03-01,March 2023,2023-12-31,,5.0
+key_rate,Всего ответов,2023-03-01,March 2023,2023-12-31,,24.0
+key_rate,10th percentile,2023-03-01,March 2023,2024-12-31,,6.0600000000000005
+key_rate,1st quartile,2023-03-01,March 2023,2024-12-31,,6.5
+key_rate,3rd quartile,2023-03-01,March 2023,2024-12-31,,7.425000000000001
+key_rate,90th percentile,2023-03-01,March 2023,2024-12-31,,7.535
+key_rate,Average,2023-03-01,March 2023,2024-12-31,,6.837430555555557
+key_rate,Max,2023-03-01,March 2023,2024-12-31,,8.0
+key_rate,Median,2023-03-01,March 2023,2024-12-31,,6.775
+key_rate,Min,2023-03-01,March 2023,2024-12-31,,5.5
+key_rate,Всего ответов,2023-03-01,March 2023,2024-12-31,,24.0
+key_rate,10th percentile,2023-03-01,March 2023,2025-12-31,,5.5
+key_rate,1st quartile,2023-03-01,March 2023,2025-12-31,,5.862500000000001
+key_rate,3rd quartile,2023-03-01,March 2023,2025-12-31,,6.525
+key_rate,90th percentile,2023-03-01,March 2023,2025-12-31,,7.0
+key_rate,Average,2023-03-01,March 2023,2025-12-31,,6.183333333333334
+key_rate,Max,2023-03-01,March 2023,2025-12-31,,7.5
+key_rate,Median,2023-03-01,March 2023,2025-12-31,,6.05
+key_rate,Min,2023-03-01,March 2023,2025-12-31,,5.0
+key_rate,Всего ответов,2023-03-01,March 2023,2025-12-31,,24.0
+key_rate,10th percentile,2023-04-01,April 2023,2023-12-31,,7.308
+key_rate,1st quartile,2023-04-01,April 2023,2023-12-31,,7.415
+key_rate,3rd quartile,2023-04-01,April 2023,2023-12-31,,7.7775
+key_rate,90th percentile,2023-04-01,April 2023,2023-12-31,,7.896164383561644
+key_rate,Average,2023-04-01,April 2023,2023-12-31,,7.5866993565794925
+key_rate,Max,2023-04-01,April 2023,2023-12-31,,8.0
+key_rate,Median,2023-04-01,April 2023,2023-12-31,,7.5
+key_rate,Min,2023-04-01,April 2023,2023-12-31,,7.2
+key_rate,Всего ответов,2023-04-01,April 2023,2023-12-31,,22.0
+key_rate,10th percentile,2023-04-01,April 2023,2024-12-31,,6.5
+key_rate,1st quartile,2023-04-01,April 2023,2024-12-31,,6.6
+key_rate,3rd quartile,2023-04-01,April 2023,2024-12-31,,7.5
+key_rate,90th percentile,2023-04-01,April 2023,2024-12-31,,7.549166666666666
+key_rate,Average,2023-04-01,April 2023,2024-12-31,,7.007954545454546
+key_rate,Max,2023-04-01,April 2023,2024-12-31,,8.083333333333334
+key_rate,Median,2023-04-01,April 2023,2024-12-31,,7.0
+key_rate,Min,2023-04-01,April 2023,2024-12-31,,5.6
+key_rate,Всего ответов,2023-04-01,April 2023,2024-12-31,,22.0
+key_rate,10th percentile,2023-04-01,April 2023,2025-12-31,,5.5
+key_rate,1st quartile,2023-04-01,April 2023,2025-12-31,,6.0
+key_rate,3rd quartile,2023-04-01,April 2023,2025-12-31,,6.6
+key_rate,90th percentile,2023-04-01,April 2023,2025-12-31,,7.0
+key_rate,Average,2023-04-01,April 2023,2025-12-31,,6.173809523809524
+key_rate,Max,2023-04-01,April 2023,2025-12-31,,7.1
+key_rate,Median,2023-04-01,April 2023,2025-12-31,,6.0
+key_rate,Min,2023-04-01,April 2023,2025-12-31,,5.0
+key_rate,Всего ответов,2023-04-01,April 2023,2025-12-31,,21.0
+key_rate,10th percentile,2023-06-01,June 2023,2023-12-31,,7.385
+key_rate,1st quartile,2023-06-01,June 2023,2023-12-31,,7.5
+key_rate,3rd quartile,2023-06-01,June 2023,2023-12-31,,7.719178082191781
+key_rate,90th percentile,2023-06-01,June 2023,2023-12-31,,7.9
+key_rate,Average,2023-06-01,June 2023,2023-12-31,,7.588038447488584
+key_rate,Max,2023-06-01,June 2023,2023-12-31,,8.0
+key_rate,Median,2023-06-01,June 2023,2023-12-31,,7.5
+key_rate,Min,2023-06-01,June 2023,2023-12-31,,7.3
+key_rate,Всего ответов,2023-06-01,June 2023,2023-12-31,,25.0
+key_rate,10th percentile,2023-06-01,June 2023,2024-12-31,,6.32
+key_rate,1st quartile,2023-06-01,June 2023,2024-12-31,,6.75
+key_rate,3rd quartile,2023-06-01,June 2023,2024-12-31,,7.411885245901639
+key_rate,90th percentile,2023-06-01,June 2023,2024-12-31,,7.53
+key_rate,Average,2023-06-01,June 2023,2024-12-31,,6.982808743169398
+key_rate,Max,2023-06-01,June 2023,2024-12-31,,8.1
+key_rate,Median,2023-06-01,June 2023,2024-12-31,,7.0
+key_rate,Min,2023-06-01,June 2023,2024-12-31,,5.6
+key_rate,Всего ответов,2023-06-01,June 2023,2024-12-31,,25.0
+key_rate,10th percentile,2023-06-01,June 2023,2025-12-31,,5.5600000000000005
+key_rate,1st quartile,2023-06-01,June 2023,2025-12-31,,6.0
+key_rate,3rd quartile,2023-06-01,June 2023,2025-12-31,,6.525
+key_rate,90th percentile,2023-06-01,June 2023,2025-12-31,,7.0
+key_rate,Average,2023-06-01,June 2023,2025-12-31,,6.172916666666667
+key_rate,Max,2023-06-01,June 2023,2025-12-31,,7.5
+key_rate,Median,2023-06-01,June 2023,2025-12-31,,6.0
+key_rate,Min,2023-06-01,June 2023,2025-12-31,,5.0
+key_rate,Всего ответов,2023-06-01,June 2023,2025-12-31,,24.0
+key_rate,10th percentile,2023-07-01,July 2023,2023-12-31,,7.64
+key_rate,1st quartile,2023-07-01,July 2023,2023-12-31,,7.75
+key_rate,3rd quartile,2023-07-01,July 2023,2023-12-31,,8.0
+key_rate,90th percentile,2023-07-01,July 2023,2023-12-31,,8.147123287671233
+key_rate,Average,2023-07-01,July 2023,2023-12-31,,7.888441552511416
+key_rate,Max,2023-07-01,July 2023,2023-12-31,,8.5
+key_rate,Median,2023-07-01,July 2023,2023-12-31,,7.9
+key_rate,Min,2023-07-01,July 2023,2023-12-31,,7.5
+key_rate,Всего ответов,2023-07-01,July 2023,2023-12-31,,25.0
+key_rate,10th percentile,2023-07-01,July 2023,2024-12-31,,6.77
+key_rate,1st quartile,2023-07-01,July 2023,2024-12-31,,7.25
+key_rate,3rd quartile,2023-07-01,July 2023,2024-12-31,,8.0
+key_rate,90th percentile,2023-07-01,July 2023,2024-12-31,,8.33
+key_rate,Average,2023-07-01,July 2023,2024-12-31,,7.626596174863388
+key_rate,Max,2023-07-01,July 2023,2024-12-31,,8.9474043715847
+key_rate,Median,2023-07-01,July 2023,2024-12-31,,7.7
+key_rate,Min,2023-07-01,July 2023,2024-12-31,,6.4
+key_rate,Всего ответов,2023-07-01,July 2023,2024-12-31,,25.0
+key_rate,10th percentile,2023-07-01,July 2023,2025-12-31,,5.8
+key_rate,1st quartile,2023-07-01,July 2023,2025-12-31,,6.0
+key_rate,3rd quartile,2023-07-01,July 2023,2025-12-31,,7.0
+key_rate,90th percentile,2023-07-01,July 2023,2025-12-31,,7.0249999999999995
+key_rate,Average,2023-07-01,July 2023,2025-12-31,,6.4540333333333315
+key_rate,Max,2023-07-01,July 2023,2025-12-31,,7.479166666666667
+key_rate,Median,2023-07-01,July 2023,2025-12-31,,6.58
+key_rate,Min,2023-07-01,July 2023,2025-12-31,,5.1
+key_rate,Всего ответов,2023-07-01,July 2023,2025-12-31,,25.0
+key_rate,10th percentile,2023-09-01,September 2023,2023-12-31,,9.235999999999999
+key_rate,1st quartile,2023-09-01,September 2023,2023-12-31,,9.29109589041096
+key_rate,3rd quartile,2023-09-01,September 2023,2023-12-31,,9.479166666666668
+key_rate,90th percentile,2023-09-01,September 2023,2023-12-31,,9.64
+key_rate,Average,2023-09-01,September 2023,2023-12-31,,9.373763740909864
+key_rate,Max,2023-09-01,September 2023,2023-12-31,,10.5
+key_rate,Median,2023-09-01,September 2023,2023-12-31,,9.3
+key_rate,Min,2023-09-01,September 2023,2023-12-31,,8.8
+key_rate,Всего ответов,2023-09-01,September 2023,2023-12-31,,27.0
+key_rate,10th percentile,2023-09-01,September 2023,2024-12-31,,8.5
+key_rate,1st quartile,2023-09-01,September 2023,2024-12-31,,9.3
+key_rate,3rd quartile,2023-09-01,September 2023,2024-12-31,,10.649999999999999
+key_rate,90th percentile,2023-09-01,September 2023,2024-12-31,,11.133333333333335
+key_rate,Average,2023-09-01,September 2023,2024-12-31,,9.853095527221209
+key_rate,Max,2023-09-01,September 2023,2024-12-31,,12.0
+key_rate,Median,2023-09-01,September 2023,2024-12-31,,10.0
+key_rate,Min,2023-09-01,September 2023,2024-12-31,,6.6
+key_rate,Всего ответов,2023-09-01,September 2023,2024-12-31,,27.0
+key_rate,10th percentile,2023-09-01,September 2023,2025-12-31,,6.65
+key_rate,1st quartile,2023-09-01,September 2023,2025-12-31,,7.154999999999999
+key_rate,3rd quartile,2023-09-01,September 2023,2025-12-31,,8.45
+key_rate,90th percentile,2023-09-01,September 2023,2025-12-31,,9.4375
+key_rate,Average,2023-09-01,September 2023,2025-12-31,,7.8136652616789615
+key_rate,Max,2023-09-01,September 2023,2025-12-31,,10.0
+key_rate,Median,2023-09-01,September 2023,2025-12-31,,7.699999999999999
+key_rate,Min,2023-09-01,September 2023,2025-12-31,,5.1
+key_rate,Всего ответов,2023-09-01,September 2023,2025-12-31,,26.0
+key_rate,10th percentile,2023-09-01,September 2023,2026-12-31,,6.0
+key_rate,1st quartile,2023-09-01,September 2023,2026-12-31,,6.0
+key_rate,3rd quartile,2023-09-01,September 2023,2026-12-31,,7.0
+key_rate,90th percentile,2023-09-01,September 2023,2026-12-31,,8.0
+key_rate,Average,2023-09-01,September 2023,2026-12-31,,6.637857142857143
+key_rate,Max,2023-09-01,September 2023,2026-12-31,,8.3125
+key_rate,Median,2023-09-01,September 2023,2026-12-31,,6.5
+key_rate,Min,2023-09-01,September 2023,2026-12-31,,4.8
+key_rate,Всего ответов,2023-09-01,September 2023,2026-12-31,,21.0
+key_rate,10th percentile,2023-10-01,October 2023,2023-12-31,,9.7
+key_rate,1st quartile,2023-10-01,October 2023,2023-12-31,,9.7
+key_rate,3rd quartile,2023-10-01,October 2023,2023-12-31,,9.8925
+key_rate,90th percentile,2023-10-01,October 2023,2023-12-31,,10.087
+key_rate,Average,2023-10-01,October 2023,2023-12-31,,10.066232469015
+key_rate,Max,2023-10-01,October 2023,2023-12-31,,14.0
+key_rate,Median,2023-10-01,October 2023,2023-12-31,,9.765
+key_rate,Min,2023-10-01,October 2023,2023-12-31,,9.2
+key_rate,Всего ответов,2023-10-01,October 2023,2023-12-31,,28.0
+key_rate,10th percentile,2023-10-01,October 2023,2024-12-31,,10.0
+key_rate,1st quartile,2023-10-01,October 2023,2024-12-31,,11.595833333333324
+key_rate,3rd quartile,2023-10-01,October 2023,2024-12-31,,12.993125000000004
+key_rate,90th percentile,2023-10-01,October 2023,2024-12-31,,13.5
+key_rate,Average,2023-10-01,October 2023,2024-12-31,,12.214590838974262
+key_rate,Max,2023-10-01,October 2023,2024-12-31,,14.4
+key_rate,Median,2023-10-01,October 2023,2024-12-31,,12.559999999999999
+key_rate,Min,2023-10-01,October 2023,2024-12-31,,8.5
+key_rate,Всего ответов,2023-10-01,October 2023,2024-12-31,,28.0
+key_rate,10th percentile,2023-10-01,October 2023,2025-12-31,,6.85
+key_rate,1st quartile,2023-10-01,October 2023,2025-12-31,,7.345833333333333
+key_rate,3rd quartile,2023-10-01,October 2023,2025-12-31,,9.0
+key_rate,90th percentile,2023-10-01,October 2023,2025-12-31,,9.706
+key_rate,Average,2023-10-01,October 2023,2025-12-31,,8.282421722113503
+key_rate,Max,2023-10-01,October 2023,2025-12-31,,11.416666666666666
+key_rate,Median,2023-10-01,October 2023,2025-12-31,,8.20890410958904
+key_rate,Min,2023-10-01,October 2023,2025-12-31,,6.0
+key_rate,Всего ответов,2023-10-01,October 2023,2025-12-31,,28.0
+key_rate,10th percentile,2023-10-01,October 2023,2026-12-31,,5.78
+key_rate,1st quartile,2023-10-01,October 2023,2026-12-31,,6.0
+key_rate,3rd quartile,2023-10-01,October 2023,2026-12-31,,7.085
+key_rate,90th percentile,2023-10-01,October 2023,2026-12-31,,8.0
+key_rate,Average,2023-10-01,October 2023,2026-12-31,,6.784506172839506
+key_rate,Max,2023-10-01,October 2023,2026-12-31,,9.5
+key_rate,Median,2023-10-01,October 2023,2026-12-31,,6.5
+key_rate,Min,2023-10-01,October 2023,2026-12-31,,4.8
+key_rate,Всего ответов,2023-10-01,October 2023,2026-12-31,,27.0
+key_rate,10th percentile,2023-12-01,December 2023,2023-12-31,,9.9
+key_rate,1st quartile,2023-12-01,December 2023,2023-12-31,,9.9
+key_rate,3rd quartile,2023-12-01,December 2023,2023-12-31,,10.0
+key_rate,90th percentile,2023-12-01,December 2023,2023-12-31,,10.0
+key_rate,Average,2023-12-01,December 2023,2023-12-31,,9.95131717597471
+key_rate,Max,2023-12-01,December 2023,2023-12-31,,10.1
+key_rate,Median,2023-12-01,December 2023,2023-12-31,,9.945
+key_rate,Min,2023-12-01,December 2023,2023-12-31,,9.89
+key_rate,Всего ответов,2023-12-01,December 2023,2023-12-31,,26.0
+key_rate,10th percentile,2023-12-01,December 2023,2024-12-31,,12.683835616438357
+key_rate,1st quartile,2023-12-01,December 2023,2024-12-31,,13.05
+key_rate,3rd quartile,2023-12-01,December 2023,2024-12-31,,14.4
+key_rate,90th percentile,2023-12-01,December 2023,2024-12-31,,14.844262295081966
+key_rate,Average,2023-12-01,December 2023,2024-12-31,,13.670367306823257
+key_rate,Max,2023-12-01,December 2023,2024-12-31,,15.083333333333329
+key_rate,Median,2023-12-01,December 2023,2024-12-31,,14.0
+key_rate,Min,2023-12-01,December 2023,2024-12-31,,9.5
+key_rate,Всего ответов,2023-12-01,December 2023,2024-12-31,,27.0
+key_rate,10th percentile,2023-12-01,December 2023,2025-12-31,,7.319999999999999
+key_rate,1st quartile,2023-12-01,December 2023,2025-12-31,,7.5
+key_rate,3rd quartile,2023-12-01,December 2023,2025-12-31,,9.625856164383562
+key_rate,90th percentile,2023-12-01,December 2023,2025-12-31,,10.714666666666666
+key_rate,Average,2023-12-01,December 2023,2025-12-31,,8.802779468966683
+key_rate,Max,2023-12-01,December 2023,2025-12-31,,11.416666666666666
+key_rate,Median,2023-12-01,December 2023,2025-12-31,,9.0
+key_rate,Min,2023-12-01,December 2023,2025-12-31,,6.5
+key_rate,Всего ответов,2023-12-01,December 2023,2025-12-31,,27.0
+key_rate,10th percentile,2023-12-01,December 2023,2026-12-31,,5.875
+key_rate,1st quartile,2023-12-01,December 2023,2026-12-31,,6.5
+key_rate,3rd quartile,2023-12-01,December 2023,2026-12-31,,7.943835616438356
+key_rate,90th percentile,2023-12-01,December 2023,2026-12-31,,8.65583333333333
+key_rate,Average,2023-12-01,December 2023,2026-12-31,,7.167192658939233
+key_rate,Max,2023-12-01,December 2023,2026-12-31,,9.5
+key_rate,Median,2023-12-01,December 2023,2026-12-31,,7.0
+key_rate,Min,2023-12-01,December 2023,2026-12-31,,5.0
+key_rate,Всего ответов,2023-12-01,December 2023,2026-12-31,,26.0
+key_rate,10th percentile,2024-02-01,February 2024,2024-12-31,,12.870000000000001
+key_rate,1st quartile,2024-02-01,February 2024,2024-12-31,,13.75
+key_rate,3rd quartile,2024-02-01,February 2024,2024-12-31,,14.5
+key_rate,90th percentile,2024-02-01,February 2024,2024-12-31,,14.844262295081966
+key_rate,Average,2024-02-01,February 2024,2024-12-31,,13.910359672524624
+key_rate,Max,2024-02-01,February 2024,2024-12-31,,15.1
+key_rate,Median,2024-02-01,February 2024,2024-12-31,,13.9
+key_rate,Min,2024-02-01,February 2024,2024-12-31,,11.2
+key_rate,Всего ответов,2024-02-01,February 2024,2024-12-31,,29.0
+key_rate,10th percentile,2024-02-01,February 2024,2025-12-31,,7.73
+key_rate,1st quartile,2024-02-01,February 2024,2025-12-31,,8.1
+key_rate,3rd quartile,2024-02-01,February 2024,2025-12-31,,10.0
+key_rate,90th percentile,2024-02-01,February 2024,2025-12-31,,11.083333333333332
+key_rate,Average,2024-02-01,February 2024,2025-12-31,,9.328047551566682
+key_rate,Max,2024-02-01,February 2024,2025-12-31,,14.5
+key_rate,Median,2024-02-01,February 2024,2025-12-31,,9.16
+key_rate,Min,2024-02-01,February 2024,2025-12-31,,6.8
+key_rate,Всего ответов,2024-02-01,February 2024,2025-12-31,,29.0
+key_rate,10th percentile,2024-02-01,February 2024,2026-12-31,,6.35
+key_rate,1st quartile,2024-02-01,February 2024,2026-12-31,,6.7425
+key_rate,3rd quartile,2024-02-01,February 2024,2026-12-31,,8.510416666666664
+key_rate,90th percentile,2024-02-01,February 2024,2026-12-31,,9.5
+key_rate,Average,2024-02-01,February 2024,2026-12-31,,7.730309849967384
+key_rate,Max,2024-02-01,February 2024,2026-12-31,,14.0
+key_rate,Median,2024-02-01,February 2024,2026-12-31,,7.4
+key_rate,Min,2024-02-01,February 2024,2026-12-31,,5.0
+key_rate,Всего ответов,2024-02-01,February 2024,2026-12-31,,28.0
+key_rate,10th percentile,2024-03-01,March 2024,2024-12-31,,13.68
+key_rate,1st quartile,2024-03-01,March 2024,2024-12-31,,14.125
+key_rate,3rd quartile,2024-03-01,March 2024,2024-12-31,,15.091666666666665
+key_rate,90th percentile,2024-03-01,March 2024,2024-12-31,,15.1
+key_rate,Average,2024-03-01,March 2024,2024-12-31,,14.460251289610172
+key_rate,Max,2024-03-01,March 2024,2024-12-31,,15.513661202185792
+key_rate,Median,2024-03-01,March 2024,2024-12-31,,14.502739726027396
+key_rate,Min,2024-03-01,March 2024,2024-12-31,,12.0
+key_rate,Всего ответов,2024-03-01,March 2024,2024-12-31,,27.0
+key_rate,10th percentile,2024-03-01,March 2024,2025-12-31,,7.8
+key_rate,1st quartile,2024-03-01,March 2024,2025-12-31,,8.625
+key_rate,3rd quartile,2024-03-01,March 2024,2025-12-31,,10.513356164383563
+key_rate,90th percentile,2024-03-01,March 2024,2025-12-31,,11.166666666666668
+key_rate,Average,2024-03-01,March 2024,2025-12-31,,9.644322678843228
+key_rate,Max,2024-03-01,March 2024,2025-12-31,,15.0
+key_rate,Median,2024-03-01,March 2024,2025-12-31,,9.4
+key_rate,Min,2024-03-01,March 2024,2025-12-31,,7.3
+key_rate,Всего ответов,2024-03-01,March 2024,2025-12-31,,27.0
+key_rate,10th percentile,2024-03-01,March 2024,2026-12-31,,6.208333333333334
+key_rate,1st quartile,2024-03-01,March 2024,2026-12-31,,6.525
+key_rate,3rd quartile,2024-03-01,March 2024,2026-12-31,,8.562916666666666
+key_rate,90th percentile,2024-03-01,March 2024,2026-12-31,,9.5
+key_rate,Average,2024-03-01,March 2024,2026-12-31,,7.771295223041799
+key_rate,Max,2024-03-01,March 2024,2026-12-31,,14.0
+key_rate,Median,2024-03-01,March 2024,2026-12-31,,7.5
+key_rate,Min,2024-03-01,March 2024,2026-12-31,,5.0
+key_rate,Всего ответов,2024-03-01,March 2024,2026-12-31,,26.0
+key_rate,10th percentile,2024-04-01,April 2024,2024-12-31,,14.15
+key_rate,1st quartile,2024-04-01,April 2024,2024-12-31,,14.6
+key_rate,3rd quartile,2024-04-01,April 2024,2024-12-31,,15.5
+key_rate,90th percentile,2024-04-01,April 2024,2024-12-31,,15.599262295081967
+key_rate,Average,2024-04-01,April 2024,2024-12-31,,14.938070733069612
+key_rate,Max,2024-04-01,April 2024,2024-12-31,,15.7
+key_rate,Median,2024-04-01,April 2024,2024-12-31,,14.91
+key_rate,Min,2024-04-01,April 2024,2024-12-31,,13.7
+key_rate,Всего ответов,2024-04-01,April 2024,2024-12-31,,26.0
+key_rate,10th percentile,2024-04-01,April 2024,2025-12-31,,8.75
+key_rate,1st quartile,2024-04-01,April 2024,2025-12-31,,9.639999999999999
+key_rate,3rd quartile,2024-04-01,April 2024,2025-12-31,,10.979166666666666
+key_rate,90th percentile,2024-04-01,April 2024,2025-12-31,,11.96
+key_rate,Average,2024-04-01,April 2024,2025-12-31,,10.371571829996482
+key_rate,Max,2024-04-01,April 2024,2025-12-31,,15.0
+key_rate,Median,2024-04-01,April 2024,2025-12-31,,10.350000000000001
+key_rate,Min,2024-04-01,April 2024,2025-12-31,,7.5
+key_rate,Всего ответов,2024-04-01,April 2024,2025-12-31,,26.0
+key_rate,10th percentile,2024-04-01,April 2024,2026-12-31,,6.125
+key_rate,1st quartile,2024-04-01,April 2024,2026-12-31,,6.9
+key_rate,3rd quartile,2024-04-01,April 2024,2026-12-31,,8.774999999999999
+key_rate,90th percentile,2024-04-01,April 2024,2026-12-31,,9.5
+key_rate,Average,2024-04-01,April 2024,2026-12-31,,8.094374999999998
+key_rate,Max,2024-04-01,April 2024,2026-12-31,,14.0
+key_rate,Median,2024-04-01,April 2024,2026-12-31,,8.05
+key_rate,Min,2024-04-01,April 2024,2026-12-31,,5.0
+key_rate,Всего ответов,2024-04-01,April 2024,2026-12-31,,24.0
+key_rate,10th percentile,2024-05-01,May 2024,2024-12-31,,15.12
+key_rate,1st quartile,2024-05-01,May 2024,2024-12-31,,15.658333333333331
+key_rate,3rd quartile,2024-05-01,May 2024,2024-12-31,,16.0
+key_rate,90th percentile,2024-05-01,May 2024,2024-12-31,,16.580000000000002
+key_rate,Average,2024-05-01,May 2024,2024-12-31,,15.86506172839506
+key_rate,Max,2024-05-01,May 2024,2024-12-31,,17.0
+key_rate,Median,2024-05-01,May 2024,2024-12-31,,15.9
+key_rate,Min,2024-05-01,May 2024,2024-12-31,,14.0
+key_rate,Всего ответов,2024-05-01,May 2024,2024-12-31,,27.0
+key_rate,10th percentile,2024-05-01,May 2024,2025-12-31,,10.73
+key_rate,1st quartile,2024-05-01,May 2024,2025-12-31,,11.6
+key_rate,3rd quartile,2024-05-01,May 2024,2025-12-31,,13.8375
+key_rate,90th percentile,2024-05-01,May 2024,2025-12-31,,14.213424657534247
+key_rate,Average,2024-05-01,May 2024,2025-12-31,,12.530996110265518
+key_rate,Max,2024-05-01,May 2024,2025-12-31,,15.9
+key_rate,Median,2024-05-01,May 2024,2025-12-31,,12.4166666666666
+key_rate,Min,2024-05-01,May 2024,2025-12-31,,9.3
+key_rate,Всего ответов,2024-05-01,May 2024,2025-12-31,,27.0
+key_rate,10th percentile,2024-05-01,May 2024,2026-12-31,,7.5
+key_rate,1st quartile,2024-05-01,May 2024,2026-12-31,,7.9
+key_rate,3rd quartile,2024-05-01,May 2024,2026-12-31,,10.3
+key_rate,90th percentile,2024-05-01,May 2024,2026-12-31,,10.6515
+key_rate,Average,2024-05-01,May 2024,2026-12-31,,9.152345679012345
+key_rate,Max,2024-05-01,May 2024,2026-12-31,,14.0
+key_rate,Median,2024-05-01,May 2024,2026-12-31,,9.375
+key_rate,Min,2024-05-01,May 2024,2026-12-31,,5.5
+key_rate,Всего ответов,2024-05-01,May 2024,2026-12-31,,27.0
+key_rate,10th percentile,2024-07-01,July 2024,2024-12-31,,16.2
+key_rate,1st quartile,2024-07-01,July 2024,2024-12-31,,16.55
+key_rate,3rd quartile,2024-07-01,July 2024,2024-12-31,,16.9
+key_rate,90th percentile,2024-07-01,July 2024,2024-12-31,,16.9
+key_rate,Average,2024-07-01,July 2024,2024-12-31,,16.72965563870195
+key_rate,Max,2024-07-01,July 2024,2024-12-31,,17.4
+key_rate,Median,2024-07-01,July 2024,2024-12-31,,16.846994535519126
+key_rate,Min,2024-07-01,July 2024,2024-12-31,,16.0
+key_rate,Всего ответов,2024-07-01,July 2024,2024-12-31,,31.0
+key_rate,10th percentile,2024-07-01,July 2024,2025-12-31,,12.2
+key_rate,1st quartile,2024-07-01,July 2024,2025-12-31,,13.95
+key_rate,3rd quartile,2024-07-01,July 2024,2025-12-31,,15.304999999999998
+key_rate,90th percentile,2024-07-01,July 2024,2025-12-31,,16.4
+key_rate,Average,2024-07-01,July 2024,2025-12-31,,14.502588010016202
+key_rate,Max,2024-07-01,July 2024,2025-12-31,,18.0
+key_rate,Median,2024-07-01,July 2024,2025-12-31,,15.0
+key_rate,Min,2024-07-01,July 2024,2025-12-31,,9.5
+key_rate,Всего ответов,2024-07-01,July 2024,2025-12-31,,31.0
+key_rate,10th percentile,2024-07-01,July 2024,2026-12-31,,7.9
+key_rate,1st quartile,2024-07-01,July 2024,2026-12-31,,9.7
+key_rate,3rd quartile,2024-07-01,July 2024,2026-12-31,,11.55
+key_rate,90th percentile,2024-07-01,July 2024,2026-12-31,,13.03
+key_rate,Average,2024-07-01,July 2024,2026-12-31,,10.416690395623863
+key_rate,Max,2024-07-01,July 2024,2026-12-31,,14.0
+key_rate,Median,2024-07-01,July 2024,2026-12-31,,10.64
+key_rate,Min,2024-07-01,July 2024,2026-12-31,,5.5
+key_rate,Всего ответов,2024-07-01,July 2024,2026-12-31,,31.0
+key_rate,10th percentile,2024-07-01,July 2024,2027-12-31,,6.35
+key_rate,1st quartile,2024-07-01,July 2024,2027-12-31,,7.0
+key_rate,3rd quartile,2024-07-01,July 2024,2027-12-31,,9.625
+key_rate,90th percentile,2024-07-01,July 2024,2027-12-31,,10.0
+key_rate,Average,2024-07-01,July 2024,2027-12-31,,8.220026271345468
+key_rate,Max,2024-07-01,July 2024,2027-12-31,,11.0
+key_rate,Median,2024-07-01,July 2024,2027-12-31,,8.0
+key_rate,Min,2024-07-01,July 2024,2027-12-31,,5.0
+key_rate,Всего ответов,2024-07-01,July 2024,2027-12-31,,28.0
+key_rate,10th percentile,2024-09-01,September 2024,2024-12-31,,16.835
+key_rate,1st quartile,2024-09-01,September 2024,2024-12-31,,16.9
+key_rate,3rd quartile,2024-09-01,September 2024,2024-12-31,,17.2
+key_rate,90th percentile,2024-09-01,September 2024,2024-12-31,,17.4
+key_rate,Average,2024-09-01,September 2024,2024-12-31,,17.08527964026392
+key_rate,Max,2024-09-01,September 2024,2024-12-31,,17.42622950819672
+key_rate,Median,2024-09-01,September 2024,2024-12-31,,17.1424043715847
+key_rate,Min,2024-09-01,September 2024,2024-12-31,,16.6
+key_rate,Всего ответов,2024-09-01,September 2024,2024-12-31,,28.0
+key_rate,10th percentile,2024-09-01,September 2024,2025-12-31,,14.35
+key_rate,1st quartile,2024-09-01,September 2024,2025-12-31,,15.055479452054794
+key_rate,3rd quartile,2024-09-01,September 2024,2025-12-31,,17.424999999999997
+key_rate,90th percentile,2024-09-01,September 2024,2025-12-31,,17.883333333333333
+key_rate,Average,2024-09-01,September 2024,2025-12-31,,15.936515003261578
+key_rate,Max,2024-09-01,September 2024,2025-12-31,,18.2
+key_rate,Median,2024-09-01,September 2024,2025-12-31,,16.05
+key_rate,Min,2024-09-01,September 2024,2025-12-31,,10.8
+key_rate,Всего ответов,2024-09-01,September 2024,2025-12-31,,28.0
+key_rate,10th percentile,2024-09-01,September 2024,2026-12-31,,8.11
+key_rate,1st quartile,2024-09-01,September 2024,2026-12-31,,10.3
+key_rate,3rd quartile,2024-09-01,September 2024,2026-12-31,,12.6825
+key_rate,90th percentile,2024-09-01,September 2024,2026-12-31,,13.2375
+key_rate,Average,2024-09-01,September 2024,2026-12-31,,11.276428571428568
+key_rate,Max,2024-09-01,September 2024,2026-12-31,,16.2
+key_rate,Median,2024-09-01,September 2024,2026-12-31,,11.5
+key_rate,Min,2024-09-01,September 2024,2026-12-31,,6.0
+key_rate,Всего ответов,2024-09-01,September 2024,2026-12-31,,28.0
+key_rate,10th percentile,2024-09-01,September 2024,2027-12-31,,7.0
+key_rate,1st quartile,2024-09-01,September 2024,2027-12-31,,8.0
+key_rate,3rd quartile,2024-09-01,September 2024,2027-12-31,,10.0
+key_rate,90th percentile,2024-09-01,September 2024,2027-12-31,,10.75
+key_rate,Average,2024-09-01,September 2024,2027-12-31,,8.804615384615385
+key_rate,Max,2024-09-01,September 2024,2027-12-31,,14.5
+key_rate,Median,2024-09-01,September 2024,2027-12-31,,8.55
+key_rate,Min,2024-09-01,September 2024,2027-12-31,,5.0
+key_rate,Всего ответов,2024-09-01,September 2024,2027-12-31,,26.0
+key_rate,10th percentile,2024-10-01,October 2024,2024-12-31,,17.1
+key_rate,1st quartile,2024-10-01,October 2024,2024-12-31,,17.2
+key_rate,3rd quartile,2024-10-01,October 2024,2024-12-31,,17.445
+key_rate,90th percentile,2024-10-01,October 2024,2024-12-31,,17.5
+key_rate,Average,2024-10-01,October 2024,2024-12-31,,17.32860756931795
+key_rate,Max,2024-10-01,October 2024,2024-12-31,,17.7
+key_rate,Median,2024-10-01,October 2024,2024-12-31,,17.3
+key_rate,Min,2024-10-01,October 2024,2024-12-31,,17.1
+key_rate,Всего ответов,2024-10-01,October 2024,2024-12-31,,27.0
+key_rate,10th percentile,2024-10-01,October 2024,2025-12-31,,14.84
+key_rate,1st quartile,2024-10-01,October 2024,2025-12-31,,15.7
+key_rate,3rd quartile,2024-10-01,October 2024,2025-12-31,,18.5
+key_rate,90th percentile,2024-10-01,October 2024,2025-12-31,,19.16
+key_rate,Average,2024-10-01,October 2024,2025-12-31,,17.177345679012344
+key_rate,Max,2024-10-01,October 2024,2025-12-31,,19.83
+key_rate,Median,2024-10-01,October 2024,2025-12-31,,17.958333333333332
+key_rate,Min,2024-10-01,October 2024,2025-12-31,,12.0
+key_rate,Всего ответов,2024-10-01,October 2024,2025-12-31,,27.0
+key_rate,10th percentile,2024-10-01,October 2024,2026-12-31,,9.76
+key_rate,1st quartile,2024-10-01,October 2024,2026-12-31,,10.95
+key_rate,3rd quartile,2024-10-01,October 2024,2026-12-31,,14.0
+key_rate,90th percentile,2024-10-01,October 2024,2026-12-31,,15.41666666666667
+key_rate,Average,2024-10-01,October 2024,2026-12-31,,12.255123456790125
+key_rate,Max,2024-10-01,October 2024,2026-12-31,,16.2
+key_rate,Median,2024-10-01,October 2024,2026-12-31,,12.45
+key_rate,Min,2024-10-01,October 2024,2026-12-31,,6.5
+key_rate,Всего ответов,2024-10-01,October 2024,2026-12-31,,27.0
+key_rate,10th percentile,2024-10-01,October 2024,2027-12-31,,7.5
+key_rate,1st quartile,2024-10-01,October 2024,2027-12-31,,8.0
+key_rate,3rd quartile,2024-10-01,October 2024,2027-12-31,,10.3
+key_rate,90th percentile,2024-10-01,October 2024,2027-12-31,,12.645833333333332
+key_rate,Average,2024-10-01,October 2024,2027-12-31,,9.336282051282051
+key_rate,Max,2024-10-01,October 2024,2027-12-31,,14.5
+key_rate,Median,2024-10-01,October 2024,2027-12-31,,9.0
+key_rate,Min,2024-10-01,October 2024,2027-12-31,,5.0
+key_rate,Всего ответов,2024-10-01,October 2024,2027-12-31,,26.0
+key_rate,10th percentile,2024-12-01,December 2024,2024-12-31,,17.5
+key_rate,1st quartile,2024-12-01,December 2024,2024-12-31,,17.5
+key_rate,3rd quartile,2024-12-01,December 2024,2024-12-31,,17.6
+key_rate,90th percentile,2024-12-01,December 2024,2024-12-31,,17.6
+key_rate,Average,2024-12-01,December 2024,2024-12-31,,17.54938615820795
+key_rate,Max,2024-12-01,December 2024,2024-12-31,,17.6
+key_rate,Median,2024-12-01,December 2024,2024-12-31,,17.549590163934425
+key_rate,Min,2024-12-01,December 2024,2024-12-31,,17.5
+key_rate,Всего ответов,2024-12-01,December 2024,2024-12-31,,32.0
+key_rate,10th percentile,2024-12-01,December 2024,2025-12-31,,17.64
+key_rate,1st quartile,2024-12-01,December 2024,2025-12-31,,20.0
+key_rate,3rd quartile,2024-12-01,December 2024,2025-12-31,,22.958750000000002
+key_rate,90th percentile,2024-12-01,December 2024,2025-12-31,,23.235
+key_rate,Average,2024-12-01,December 2024,2025-12-31,,20.98694991438356
+key_rate,Max,2024-12-01,December 2024,2025-12-31,,24.7
+key_rate,Median,2024-12-01,December 2024,2025-12-31,,21.29
+key_rate,Min,2024-12-01,December 2024,2025-12-31,,14.6
+key_rate,Всего ответов,2024-12-01,December 2024,2025-12-31,,32.0
+key_rate,10th percentile,2024-12-01,December 2024,2026-12-31,,11.099315068493151
+key_rate,1st quartile,2024-12-01,December 2024,2026-12-31,,12.979166666666666
+key_rate,3rd quartile,2024-12-01,December 2024,2026-12-31,,16.0
+key_rate,90th percentile,2024-12-01,December 2024,2026-12-31,,16.708333333333332
+key_rate,Average,2024-12-01,December 2024,2026-12-31,,14.388672231735159
+key_rate,Max,2024-12-01,December 2024,2026-12-31,,21.0
+key_rate,Median,2024-12-01,December 2024,2026-12-31,,14.55
+key_rate,Min,2024-12-01,December 2024,2026-12-31,,9.4
+key_rate,Всего ответов,2024-12-01,December 2024,2026-12-31,,32.0
+key_rate,10th percentile,2024-12-01,December 2024,2027-12-31,,8.008333333333333
+key_rate,1st quartile,2024-12-01,December 2024,2027-12-31,,8.925
+key_rate,3rd quartile,2024-12-01,December 2024,2027-12-31,,11.790000000000001
+key_rate,90th percentile,2024-12-01,December 2024,2027-12-31,,12.2625
+key_rate,Average,2024-12-01,December 2024,2027-12-31,,10.231766980593607
+key_rate,Max,2024-12-01,December 2024,2027-12-31,,14.000000000000002
+key_rate,Median,2024-12-01,December 2024,2027-12-31,,10.350000000000001
+key_rate,Min,2024-12-01,December 2024,2027-12-31,,6.0
+key_rate,Всего ответов,2024-12-01,December 2024,2027-12-31,,32.0
+key_rate,10th percentile,2025-02-01,February 2025,2025-12-31,,17.6
+key_rate,1st quartile,2025-02-01,February 2025,2025-12-31,,19.7
+key_rate,3rd quartile,2025-02-01,February 2025,2025-12-31,,21.0
+key_rate,90th percentile,2025-02-01,February 2025,2025-12-31,,21.172
+key_rate,Average,2025-02-01,February 2025,2025-12-31,,20.086742770167433
+key_rate,Max,2025-02-01,February 2025,2025-12-31,,23.1
+key_rate,Median,2025-02-01,February 2025,2025-12-31,,20.495890410958904
+key_rate,Min,2025-02-01,February 2025,2025-12-31,,16.0
+key_rate,Всего ответов,2025-02-01,February 2025,2025-12-31,,27.0
+key_rate,10th percentile,2025-02-01,February 2025,2026-12-31,,12.3
+key_rate,1st quartile,2025-02-01,February 2025,2026-12-31,,13.9
+key_rate,3rd quartile,2025-02-01,February 2025,2026-12-31,,15.9
+key_rate,90th percentile,2025-02-01,February 2025,2026-12-31,,17.656989247311827
+key_rate,Average,2025-02-01,February 2025,2026-12-31,,14.837128634010355
+key_rate,Max,2025-02-01,February 2025,2026-12-31,,19.32
+key_rate,Median,2025-02-01,February 2025,2026-12-31,,15.0
+key_rate,Min,2025-02-01,February 2025,2026-12-31,,10.3
+key_rate,Всего ответов,2025-02-01,February 2025,2026-12-31,,27.0
+key_rate,10th percentile,2025-02-01,February 2025,2027-12-31,,8.633333333333333
+key_rate,1st quartile,2025-02-01,February 2025,2027-12-31,,9.55416666666666
+key_rate,3rd quartile,2025-02-01,February 2025,2027-12-31,,11.291666666666666
+key_rate,90th percentile,2025-02-01,February 2025,2027-12-31,,12.96
+key_rate,Average,2025-02-01,February 2025,2027-12-31,,10.487962962962966
+key_rate,Max,2025-02-01,February 2025,2027-12-31,,14.500000000000002
+key_rate,Median,2025-02-01,February 2025,2027-12-31,,10.4
+key_rate,Min,2025-02-01,February 2025,2027-12-31,,6.0
+key_rate,Всего ответов,2025-02-01,February 2025,2027-12-31,,27.0
+key_rate,10th percentile,2025-03-01,March 2025,2025-12-31,,17.0
+key_rate,1st quartile,2025-03-01,March 2025,2025-12-31,,19.275
+key_rate,3rd quartile,2025-03-01,March 2025,2025-12-31,,20.62
+key_rate,90th percentile,2025-03-01,March 2025,2025-12-31,,21.0
+key_rate,Average,2025-03-01,March 2025,2025-12-31,,19.572684931506853
+key_rate,Max,2025-03-01,March 2025,2025-12-31,,21.8
+key_rate,Median,2025-03-01,March 2025,2025-12-31,,20.05
+key_rate,Min,2025-03-01,March 2025,2025-12-31,,14.278082191780822
+key_rate,Всего ответов,2025-03-01,March 2025,2025-12-31,,30.0
+key_rate,10th percentile,2025-03-01,March 2025,2026-12-31,,11.088662037905797
+key_rate,1st quartile,2025-03-01,March 2025,2026-12-31,,13.03125
+key_rate,3rd quartile,2025-03-01,March 2025,2026-12-31,,15.315000000000001
+key_rate,90th percentile,2025-03-01,March 2025,2026-12-31,,16.842741935483872
+key_rate,Average,2025-03-01,March 2025,2026-12-31,,14.08250608323564
+key_rate,Max,2025-03-01,March 2025,2026-12-31,,17.5
+key_rate,Median,2025-03-01,March 2025,2026-12-31,,14.291666666666664
+key_rate,Min,2025-03-01,March 2025,2026-12-31,,10.0
+key_rate,Всего ответов,2025-03-01,March 2025,2026-12-31,,30.0
+key_rate,10th percentile,2025-03-01,March 2025,2027-12-31,,8.075000000000001
+key_rate,1st quartile,2025-03-01,March 2025,2027-12-31,,9.030183899418278
+key_rate,3rd quartile,2025-03-01,March 2025,2027-12-31,,10.674999999999999
+key_rate,90th percentile,2025-03-01,March 2025,2027-12-31,,12.802142857142858
+key_rate,Average,2025-03-01,March 2025,2027-12-31,,10.036683250081166
+key_rate,Max,2025-03-01,March 2025,2027-12-31,,14.0
+key_rate,Median,2025-03-01,March 2025,2027-12-31,,10.0
+key_rate,Min,2025-03-01,March 2025,2027-12-31,,6.0
+key_rate,Всего ответов,2025-03-01,March 2025,2027-12-31,,30.0
+key_rate,10th percentile,2025-04-01,April 2025,2025-12-31,,17.700000000000003
+key_rate,1st quartile,2025-04-01,April 2025,2025-12-31,,19.1
+key_rate,3rd quartile,2025-04-01,April 2025,2025-12-31,,20.5
+key_rate,90th percentile,2025-04-01,April 2025,2025-12-31,,20.875342465753427
+key_rate,Average,2025-04-01,April 2025,2025-12-31,,19.48824025289779
+key_rate,Max,2025-04-01,April 2025,2025-12-31,,21.7
+key_rate,Median,2025-04-01,April 2025,2025-12-31,,20.0
+key_rate,Min,2025-04-01,April 2025,2025-12-31,,14.278082191780822
+key_rate,Всего ответов,2025-04-01,April 2025,2025-12-31,,26.0
+key_rate,10th percentile,2025-04-01,April 2025,2026-12-31,,11.060367798836554
+key_rate,1st quartile,2025-04-01,April 2025,2026-12-31,,12.937499999999995
+key_rate,3rd quartile,2025-04-01,April 2025,2026-12-31,,14.9675
+key_rate,90th percentile,2025-04-01,April 2025,2026-12-31,,15.91
+key_rate,Average,2025-04-01,April 2025,2026-12-31,,13.761703230183457
+key_rate,Max,2025-04-01,April 2025,2026-12-31,,17.5
+key_rate,Median,2025-04-01,April 2025,2026-12-31,,14.25
+key_rate,Min,2025-04-01,April 2025,2026-12-31,,9.0
+key_rate,Всего ответов,2025-04-01,April 2025,2026-12-31,,26.0
+key_rate,10th percentile,2025-04-01,April 2025,2027-12-31,,7.75
+key_rate,1st quartile,2025-04-01,April 2025,2027-12-31,,9.030183899418278
+key_rate,3rd quartile,2025-04-01,April 2025,2027-12-31,,10.5
+key_rate,90th percentile,2025-04-01,April 2025,2027-12-31,,12.840934065934066
+key_rate,Average,2025-04-01,April 2025,2027-12-31,,9.934010399854149
+key_rate,Max,2025-04-01,April 2025,2027-12-31,,14.0
+key_rate,Median,2025-04-01,April 2025,2027-12-31,,9.729166666666668
+key_rate,Min,2025-04-01,April 2025,2027-12-31,,6.5
+key_rate,Всего ответов,2025-04-01,April 2025,2027-12-31,,26.0
+key_rate,10th percentile,2025-05-01,May 2025,2025-12-31,,18.94
+key_rate,1st quartile,2025-05-01,May 2025,2025-12-31,,19.55
+key_rate,3rd quartile,2025-05-01,May 2025,2025-12-31,,20.33219178082192
+key_rate,90th percentile,2025-05-01,May 2025,2025-12-31,,20.54
+key_rate,Average,2025-05-01,May 2025,2025-12-31,,19.834155251141553
+key_rate,Max,2025-05-01,May 2025,2025-12-31,,20.95068493150685
+key_rate,Median,2025-05-01,May 2025,2025-12-31,,20.0
+key_rate,Min,2025-05-01,May 2025,2025-12-31,,17.5
+key_rate,Всего ответов,2025-05-01,May 2025,2025-12-31,,27.0
+key_rate,10th percentile,2025-05-01,May 2025,2026-12-31,,11.92
+key_rate,1st quartile,2025-05-01,May 2025,2026-12-31,,13.358732876712327
+key_rate,3rd quartile,2025-05-01,May 2025,2026-12-31,,14.9
+key_rate,90th percentile,2025-05-01,May 2025,2026-12-31,,15.520000000000001
+key_rate,Average,2025-05-01,May 2025,2026-12-31,,14.01799206777849
+key_rate,Max,2025-05-01,May 2025,2026-12-31,,17.0
+key_rate,Median,2025-05-01,May 2025,2026-12-31,,14.15
+key_rate,Min,2025-05-01,May 2025,2026-12-31,,11.0
+key_rate,Всего ответов,2025-05-01,May 2025,2026-12-31,,27.0
+key_rate,10th percentile,2025-05-01,May 2025,2027-12-31,,8.1
+key_rate,1st quartile,2025-05-01,May 2025,2027-12-31,,9.0
+key_rate,3rd quartile,2025-05-01,May 2025,2027-12-31,,10.6
+key_rate,90th percentile,2025-05-01,May 2025,2027-12-31,,12.350000000000001
+key_rate,Average,2025-05-01,May 2025,2027-12-31,,9.998115021288537
+key_rate,Max,2025-05-01,May 2025,2027-12-31,,13.0
+key_rate,Median,2025-05-01,May 2025,2027-12-31,,10.0
+key_rate,Min,2025-05-01,May 2025,2027-12-31,,6.5
+key_rate,Всего ответов,2025-05-01,May 2025,2027-12-31,,27.0
+key_rate,10th percentile,2025-07-01,July 2025,2025-12-31,,18.8
+key_rate,1st quartile,2025-07-01,July 2025,2025-12-31,,19.07030821917808
+key_rate,3rd quartile,2025-07-01,July 2025,2025-12-31,,19.5
+key_rate,90th percentile,2025-07-01,July 2025,2025-12-31,,20.0
+key_rate,Average,2025-07-01,July 2025,2025-12-31,,19.319947267638828
+key_rate,Max,2025-07-01,July 2025,2025-12-31,,20.5
+key_rate,Median,2025-07-01,July 2025,2025-12-31,,19.323387096774194
+key_rate,Min,2025-07-01,July 2025,2025-12-31,,18.0
+key_rate,Всего ответов,2025-07-01,July 2025,2025-12-31,,30.0
+key_rate,10th percentile,2025-07-01,July 2025,2026-12-31,,11.695
+key_rate,1st quartile,2025-07-01,July 2025,2026-12-31,,13.01986301369863
+key_rate,3rd quartile,2025-07-01,July 2025,2026-12-31,,14.668145161290322
+key_rate,90th percentile,2025-07-01,July 2025,2026-12-31,,15.0
+key_rate,Average,2025-07-01,July 2025,2026-12-31,,13.613738092900045
+key_rate,Max,2025-07-01,July 2025,2026-12-31,,15.1
+key_rate,Median,2025-07-01,July 2025,2026-12-31,,13.75
+key_rate,Min,2025-07-01,July 2025,2026-12-31,,10.0
+key_rate,Всего ответов,2025-07-01,July 2025,2026-12-31,,30.0
+key_rate,10th percentile,2025-07-01,July 2025,2027-12-31,,7.975
+key_rate,1st quartile,2025-07-01,July 2025,2027-12-31,,9.010416666666664
+key_rate,3rd quartile,2025-07-01,July 2025,2027-12-31,,10.7
+key_rate,90th percentile,2025-07-01,July 2025,2027-12-31,,12.808186813186813
+key_rate,Average,2025-07-01,July 2025,2027-12-31,,10.0452632244869
+key_rate,Max,2025-07-01,July 2025,2027-12-31,,13.0
+key_rate,Median,2025-07-01,July 2025,2027-12-31,,10.168847634702793
+key_rate,Min,2025-07-01,July 2025,2027-12-31,,6.5
+key_rate,Всего ответов,2025-07-01,July 2025,2027-12-31,,30.0
+key_rate,10th percentile,2025-07-01,July 2025,2028-12-31,,7.007949573600297
+key_rate,1st quartile,2025-07-01,July 2025,2028-12-31,,8.0
+key_rate,3rd quartile,2025-07-01,July 2025,2028-12-31,,9.3
+key_rate,90th percentile,2025-07-01,July 2025,2028-12-31,,10.600000000000001
+key_rate,Average,2025-07-01,July 2025,2028-12-31,,8.69539404411802
+key_rate,Max,2025-07-01,July 2025,2028-12-31,,12.0
+key_rate,Median,2025-07-01,July 2025,2028-12-31,,8.5
+key_rate,Min,2025-07-01,July 2025,2028-12-31,,5.5
+key_rate,Всего ответов,2025-07-01,July 2025,2028-12-31,,25.0
+key_rate,10th percentile,2025-09-01,September 2025,2025-12-31,,18.788
+key_rate,1st quartile,2025-09-01,September 2025,2025-12-31,,18.8
+key_rate,3rd quartile,2025-09-01,September 2025,2025-12-31,,19.112328767123287
+key_rate,90th percentile,2025-09-01,September 2025,2025-12-31,,19.26
+key_rate,Average,2025-09-01,September 2025,2025-12-31,,18.980537007663674
+key_rate,Max,2025-09-01,September 2025,2025-12-31,,20.095890410958905
+key_rate,Median,2025-09-01,September 2025,2025-12-31,,18.97
+key_rate,Min,2025-09-01,September 2025,2025-12-31,,17.9400005340576
+key_rate,Всего ответов,2025-09-01,September 2025,2025-12-31,,25.0
+key_rate,10th percentile,2025-09-01,September 2025,2026-12-31,,11.58
+key_rate,1st quartile,2025-09-01,September 2025,2026-12-31,,12.3
+key_rate,3rd quartile,2025-09-01,September 2025,2026-12-31,,13.9
+key_rate,90th percentile,2025-09-01,September 2025,2026-12-31,,14.887123287671233
+key_rate,Average,2025-09-01,September 2025,2026-12-31,,13.132178583001915
+key_rate,Max,2025-09-01,September 2025,2026-12-31,,15.0
+key_rate,Median,2025-09-01,September 2025,2026-12-31,,13.2
+key_rate,Min,2025-09-01,September 2025,2026-12-31,,10.0
+key_rate,Всего ответов,2025-09-01,September 2025,2026-12-31,,25.0
+key_rate,10th percentile,2025-09-01,September 2025,2027-12-31,,7.925
+key_rate,1st quartile,2025-09-01,September 2025,2027-12-31,,9.0
+key_rate,3rd quartile,2025-09-01,September 2025,2027-12-31,,10.7
+key_rate,90th percentile,2025-09-01,September 2025,2027-12-31,,11.466666666666667
+key_rate,Average,2025-09-01,September 2025,2027-12-31,,9.933027821815413
+key_rate,Max,2025-09-01,September 2025,2027-12-31,,12.8
+key_rate,Median,2025-09-01,September 2025,2027-12-31,,10.337695269405588
+key_rate,Min,2025-09-01,September 2025,2027-12-31,,6.4
+key_rate,Всего ответов,2025-09-01,September 2025,2027-12-31,,25.0
+key_rate,10th percentile,2025-09-01,September 2025,2028-12-31,,7.003974786800148
+key_rate,1st quartile,2025-09-01,September 2025,2028-12-31,,7.75
+key_rate,3rd quartile,2025-09-01,September 2025,2028-12-31,,9.16
+key_rate,90th percentile,2025-09-01,September 2025,2028-12-31,,10.8
+key_rate,Average,2025-09-01,September 2025,2028-12-31,,8.573573753842274
+key_rate,Max,2025-09-01,September 2025,2028-12-31,,12.0
+key_rate,Median,2025-09-01,September 2025,2028-12-31,,8.5
+key_rate,Min,2025-09-01,September 2025,2028-12-31,,5.5
+key_rate,Всего ответов,2025-09-01,September 2025,2028-12-31,,23.0
+key_rate,10th percentile,2025-10-01,October 2025,2025-12-31,,19.0
+key_rate,1st quartile,2025-10-01,October 2025,2025-12-31,,19.1
+key_rate,3rd quartile,2025-10-01,October 2025,2025-12-31,,19.22671232876712
+key_rate,90th percentile,2025-10-01,October 2025,2025-12-31,,19.29041095890411
+key_rate,Average,2025-10-01,October 2025,2025-12-31,,19.16517386722866
+key_rate,Max,2025-10-01,October 2025,2025-12-31,,19.5
+key_rate,Median,2025-10-01,October 2025,2025-12-31,,19.2
+key_rate,Min,2025-10-01,October 2025,2025-12-31,,18.8
+key_rate,Всего ответов,2025-10-01,October 2025,2025-12-31,,26.0
+key_rate,10th percentile,2025-10-01,October 2025,2026-12-31,,12.175
+key_rate,1st quartile,2025-10-01,October 2025,2026-12-31,,13.5
+key_rate,3rd quartile,2025-10-01,October 2025,2026-12-31,,14.293150684931506
+key_rate,90th percentile,2025-10-01,October 2025,2026-12-31,,14.543010752688172
+key_rate,Average,2025-10-01,October 2025,2026-12-31,,13.67609039509614
+key_rate,Max,2025-10-01,October 2025,2026-12-31,,16.0
+key_rate,Median,2025-10-01,October 2025,2026-12-31,,13.649999999999999
+key_rate,Min,2025-10-01,October 2025,2026-12-31,,11.5
+key_rate,Всего ответов,2025-10-01,October 2025,2026-12-31,,26.0
+key_rate,10th percentile,2025-10-01,October 2025,2027-12-31,,8.166666666666668
+key_rate,1st quartile,2025-10-01,October 2025,2027-12-31,,9.075
+key_rate,3rd quartile,2025-10-01,October 2025,2027-12-31,,10.967808219178082
+key_rate,90th percentile,2025-10-01,October 2025,2027-12-31,,12.5
+key_rate,Average,2025-10-01,October 2025,2027-12-31,,10.096853674822514
+key_rate,Max,2025-10-01,October 2025,2027-12-31,,13.0
+key_rate,Median,2025-10-01,October 2025,2027-12-31,,10.0
+key_rate,Min,2025-10-01,October 2025,2027-12-31,,6.4
+key_rate,Всего ответов,2025-10-01,October 2025,2027-12-31,,26.0
+key_rate,10th percentile,2025-10-01,October 2025,2028-12-31,,7.007949573600297
+key_rate,1st quartile,2025-10-01,October 2025,2028-12-31,,8.0
+key_rate,3rd quartile,2025-10-01,October 2025,2028-12-31,,10.0
+key_rate,90th percentile,2025-10-01,October 2025,2028-12-31,,10.8
+key_rate,Average,2025-10-01,October 2025,2028-12-31,,8.82879495736003
+key_rate,Max,2025-10-01,October 2025,2028-12-31,,12.0
+key_rate,Median,2025-10-01,October 2025,2028-12-31,,9.0
+key_rate,Min,2025-10-01,October 2025,2028-12-31,,5.2
+key_rate,Всего ответов,2025-10-01,October 2025,2028-12-31,,25.0
+key_rate,10th percentile,2025-12-01,December 2025,2025-12-31,,19.1
+key_rate,1st quartile,2025-12-01,December 2025,2025-12-31,,19.17
+key_rate,3rd quartile,2025-12-01,December 2025,2025-12-31,,19.2
+key_rate,90th percentile,2025-12-01,December 2025,2025-12-31,,19.2
+key_rate,Average,2025-12-01,December 2025,2025-12-31,,19.17072272083136
+key_rate,Max,2025-12-01,December 2025,2025-12-31,,19.24
+key_rate,Median,2025-12-01,December 2025,2025-12-31,,19.18904109589041
+key_rate,Min,2025-12-01,December 2025,2025-12-31,,19.0
+key_rate,Всего ответов,2025-12-01,December 2025,2025-12-31,,29.0
+key_rate,10th percentile,2025-12-01,December 2025,2026-12-31,,13.5
+key_rate,1st quartile,2025-12-01,December 2025,2026-12-31,,13.62
+key_rate,3rd quartile,2025-12-01,December 2025,2026-12-31,,14.4
+key_rate,90th percentile,2025-12-01,December 2025,2026-12-31,,14.826027397260274
+key_rate,Average,2025-12-01,December 2025,2026-12-31,,14.036628064668507
+key_rate,Max,2025-12-01,December 2025,2026-12-31,,15.333333333333329
+key_rate,Median,2025-12-01,December 2025,2026-12-31,,14.094086021505376
+key_rate,Min,2025-12-01,December 2025,2026-12-31,,12.1
+key_rate,Всего ответов,2025-12-01,December 2025,2026-12-31,,29.0
+key_rate,10th percentile,2025-12-01,December 2025,2027-12-31,,8.266666666666667
+key_rate,1st quartile,2025-12-01,December 2025,2027-12-31,,9.88
+key_rate,3rd quartile,2025-12-01,December 2025,2027-12-31,,11.0
+key_rate,90th percentile,2025-12-01,December 2025,2027-12-31,,11.968
+key_rate,Average,2025-12-01,December 2025,2027-12-31,,10.237260914176362
+key_rate,Max,2025-12-01,December 2025,2027-12-31,,12.8
+key_rate,Median,2025-12-01,December 2025,2027-12-31,,10.3
+key_rate,Min,2025-12-01,December 2025,2027-12-31,,6.5
+key_rate,Всего ответов,2025-12-01,December 2025,2027-12-31,,29.0
+key_rate,10th percentile,2025-12-01,December 2025,2028-12-31,,7.569999999999999
+key_rate,1st quartile,2025-12-01,December 2025,2028-12-31,,8.0
+key_rate,3rd quartile,2025-12-01,December 2025,2028-12-31,,9.075
+key_rate,90th percentile,2025-12-01,December 2025,2028-12-31,,10.199
+key_rate,Average,2025-12-01,December 2025,2028-12-31,,8.688214285714286
+key_rate,Max,2025-12-01,December 2025,2028-12-31,,12.0
+key_rate,Median,2025-12-01,December 2025,2028-12-31,,8.85
+key_rate,Min,2025-12-01,December 2025,2028-12-31,,5.2
+key_rate,Всего ответов,2025-12-01,December 2025,2028-12-31,,28.0
+key_rate,10th percentile,2026-02-01,February 2026,2026-12-31,,12.975890410958904
+key_rate,1st quartile,2026-02-01,February 2026,2026-12-31,,13.605
+key_rate,3rd quartile,2026-02-01,February 2026,2026-12-31,,14.507191780821918
+key_rate,90th percentile,2026-02-01,February 2026,2026-12-31,,14.62
+key_rate,Average,2026-02-01,February 2026,2026-12-31,,13.989779815387637
+key_rate,Max,2026-02-01,February 2026,2026-12-31,,15.47
+key_rate,Median,2026-02-01,February 2026,2026-12-31,,14.120000000000001
+key_rate,Min,2026-02-01,February 2026,2026-12-31,,12.5
+key_rate,Всего ответов,2026-02-01,February 2026,2026-12-31,,30.0
+key_rate,10th percentile,2026-02-01,February 2026,2027-12-31,,8.573333333333332
+key_rate,1st quartile,2026-02-01,February 2026,2027-12-31,,9.295
+key_rate,3rd quartile,2026-02-01,February 2026,2027-12-31,,11.03
+key_rate,90th percentile,2026-02-01,February 2026,2027-12-31,,12.23
+key_rate,Average,2026-02-01,February 2026,2027-12-31,,10.270330222289125
+key_rate,Max,2026-02-01,February 2026,2027-12-31,,12.61
+key_rate,Median,2026-02-01,February 2026,2027-12-31,,10.408333333333333
+key_rate,Min,2026-02-01,February 2026,2027-12-31,,6.8
+key_rate,Всего ответов,2026-02-01,February 2026,2027-12-31,,30.0
+key_rate,10th percentile,2026-02-01,February 2026,2028-12-31,,7.92
+key_rate,1st quartile,2026-02-01,February 2026,2028-12-31,,8.0
+key_rate,3rd quartile,2026-02-01,February 2026,2028-12-31,,9.5
+key_rate,90th percentile,2026-02-01,February 2026,2028-12-31,,10.5
+key_rate,Average,2026-02-01,February 2026,2028-12-31,,8.841206896551723
+key_rate,Max,2026-02-01,February 2026,2028-12-31,,12.0
+key_rate,Median,2026-02-01,February 2026,2028-12-31,,9.0
+key_rate,Min,2026-02-01,February 2026,2028-12-31,,5.3
+key_rate,Всего ответов,2026-02-01,February 2026,2028-12-31,,29.0
+key_rate,10th percentile,2026-03-01,March 2026,2026-12-31,,12.903561643835616
+key_rate,1st quartile,2026-03-01,March 2026,2026-12-31,,13.5
+key_rate,3rd quartile,2026-03-01,March 2026,2026-12-31,,14.131506849315068
+key_rate,90th percentile,2026-03-01,March 2026,2026-12-31,,14.428
+key_rate,Average,2026-03-01,March 2026,2026-12-31,,13.796133069289645
+key_rate,Max,2026-03-01,March 2026,2026-12-31,,14.6
+key_rate,Median,2026-03-01,March 2026,2026-12-31,,14.0
+key_rate,Min,2026-03-01,March 2026,2026-12-31,,12.5
+key_rate,Всего ответов,2026-03-01,March 2026,2026-12-31,,27.0
+key_rate,10th percentile,2026-03-01,March 2026,2027-12-31,,8.433333333333334
+key_rate,1st quartile,2026-03-01,March 2026,2027-12-31,,9.690000000000001
+key_rate,3rd quartile,2026-03-01,March 2026,2027-12-31,,11.0
+key_rate,90th percentile,2026-03-01,March 2026,2027-12-31,,11.89456043956044
+key_rate,Average,2026-03-01,March 2026,2027-12-31,,10.174210140443016
+key_rate,Max,2026-03-01,March 2026,2027-12-31,,12.5
+key_rate,Median,2026-03-01,March 2026,2027-12-31,,10.3
+key_rate,Min,2026-03-01,March 2026,2027-12-31,,6.8
+key_rate,Всего ответов,2026-03-01,March 2026,2027-12-31,,27.0
+key_rate,10th percentile,2026-03-01,March 2026,2028-12-31,,7.8
+key_rate,1st quartile,2026-03-01,March 2026,2028-12-31,,8.0
+key_rate,3rd quartile,2026-03-01,March 2026,2028-12-31,,9.25625
+key_rate,90th percentile,2026-03-01,March 2026,2028-12-31,,10.5
+key_rate,Average,2026-03-01,March 2026,2028-12-31,,8.830576923076922
+key_rate,Max,2026-03-01,March 2026,2028-12-31,,12.0
+key_rate,Median,2026-03-01,March 2026,2028-12-31,,8.85
+key_rate,Min,2026-03-01,March 2026,2028-12-31,,5.3
+key_rate,Всего ответов,2026-03-01,March 2026,2028-12-31,,26.0
+key_rate,10th percentile,2026-04-01,April 2026,2026-12-31,,13.47
+key_rate,1st quartile,2026-04-01,April 2026,2026-12-31,,13.844999999999999
+key_rate,3rd quartile,2026-04-01,April 2026,2026-12-31,,14.3
+key_rate,90th percentile,2026-04-01,April 2026,2026-12-31,,14.518
+key_rate,Average,2026-04-01,April 2026,2026-12-31,,14.029182132861981
+key_rate,Max,2026-04-01,April 2026,2026-12-31,,14.745205479452055
+key_rate,Median,2026-04-01,April 2026,2026-12-31,,14.103424657534246
+key_rate,Min,2026-04-01,April 2026,2026-12-31,,13.0
+key_rate,Всего ответов,2026-04-01,April 2026,2026-12-31,,28.0
+key_rate,10th percentile,2026-04-01,April 2026,2027-12-31,,9.32
+key_rate,1st quartile,2026-04-01,April 2026,2027-12-31,,10.0
+key_rate,3rd quartile,2026-04-01,April 2026,2027-12-31,,11.525
+key_rate,90th percentile,2026-04-01,April 2026,2027-12-31,,12.147499999999997
+key_rate,Average,2026-04-01,April 2026,2027-12-31,,10.652400978831997
+key_rate,Max,2026-04-01,April 2026,2027-12-31,,12.5
+key_rate,Median,2026-04-01,April 2026,2027-12-31,,10.672945205479452
+key_rate,Min,2026-04-01,April 2026,2027-12-31,,7.9
+key_rate,Всего ответов,2026-04-01,April 2026,2027-12-31,,28.0
+key_rate,10th percentile,2026-04-01,April 2026,2028-12-31,,7.88
+key_rate,1st quartile,2026-04-01,April 2026,2028-12-31,,8.149999999999999
+key_rate,3rd quartile,2026-04-01,April 2026,2028-12-31,,9.5
+key_rate,90th percentile,2026-04-01,April 2026,2028-12-31,,10.5
+key_rate,Average,2026-04-01,April 2026,2028-12-31,,8.965124902419983
+key_rate,Max,2026-04-01,April 2026,2028-12-31,,12.0
+key_rate,Median,2026-04-01,April 2026,2028-12-31,,9.0
+key_rate,Min,2026-04-01,April 2026,2028-12-31,,5.5
+key_rate,Всего ответов,2026-04-01,April 2026,2028-12-31,,28.0
+neutral_key_rate,10th percentile,2021-05-01,May 2021,,,5.0
+neutral_key_rate,1st quartile,2021-05-01,May 2021,,,5.0
+neutral_key_rate,3rd quartile,2021-05-01,May 2021,,,5.5
+neutral_key_rate,90th percentile,2021-05-01,May 2021,,,5.5
+neutral_key_rate,Average,2021-05-01,May 2021,,,5.33
+neutral_key_rate,Max,2021-05-01,May 2021,,,5.75
+neutral_key_rate,Median,2021-05-01,May 2021,,,5.5
+neutral_key_rate,Min,2021-05-01,May 2021,,,5.0
+neutral_key_rate,Всего ответов,2021-05-01,May 2021,,,24.0
+neutral_key_rate,10th percentile,2021-07-01,July 2021,,,5.0
+neutral_key_rate,1st quartile,2021-07-01,July 2021,,,5.5
+neutral_key_rate,3rd quartile,2021-07-01,July 2021,,,5.5
+neutral_key_rate,90th percentile,2021-07-01,July 2021,,,5.925
+neutral_key_rate,Average,2021-07-01,July 2021,,,5.41
+neutral_key_rate,Max,2021-07-01,July 2021,,,6.0
+neutral_key_rate,Median,2021-07-01,July 2021,,,5.5
+neutral_key_rate,Min,2021-07-01,July 2021,,,5.0
+neutral_key_rate,Всего ответов,2021-07-01,July 2021,,,24.0
+neutral_key_rate,10th percentile,2021-09-01,September 2021,,,5.0
+neutral_key_rate,1st quartile,2021-09-01,September 2021,,,5.0
+neutral_key_rate,3rd quartile,2021-09-01,September 2021,,,5.5
+neutral_key_rate,90th percentile,2021-09-01,September 2021,,,6.0
+neutral_key_rate,Average,2021-09-01,September 2021,,,5.4
+neutral_key_rate,Max,2021-09-01,September 2021,,,6.0
+neutral_key_rate,Median,2021-09-01,September 2021,,,5.5
+neutral_key_rate,Min,2021-09-01,September 2021,,,4.5
+neutral_key_rate,Всего ответов,2021-09-01,September 2021,,,30.0
+neutral_key_rate,10th percentile,2021-10-01,October 2021,,,5.0
+neutral_key_rate,1st quartile,2021-10-01,October 2021,,,5.0
+neutral_key_rate,3rd quartile,2021-10-01,October 2021,,,5.5
+neutral_key_rate,90th percentile,2021-10-01,October 2021,,,5.75
+neutral_key_rate,Average,2021-10-01,October 2021,,,5.37962962962963
+neutral_key_rate,Max,2021-10-01,October 2021,,,6.0
+neutral_key_rate,Median,2021-10-01,October 2021,,,5.5
+neutral_key_rate,Min,2021-10-01,October 2021,,,4.5
+neutral_key_rate,Всего ответов,2021-10-01,October 2021,,,27.0
+neutral_key_rate,10th percentile,2021-12-01,December 2021,,,5.0
+neutral_key_rate,1st quartile,2021-12-01,December 2021,,,5.5
+neutral_key_rate,3rd quartile,2021-12-01,December 2021,,,5.5
+neutral_key_rate,90th percentile,2021-12-01,December 2021,,,6.0
+neutral_key_rate,Average,2021-12-01,December 2021,,,5.488095238095238
+neutral_key_rate,Max,2021-12-01,December 2021,,,6.0
+neutral_key_rate,Median,2021-12-01,December 2021,,,5.5
+neutral_key_rate,Min,2021-12-01,December 2021,,,5.0
+neutral_key_rate,Всего ответов,2021-12-01,December 2021,,,21.0
+neutral_key_rate,10th percentile,2022-02-01,February 2022,,,5.0
+neutral_key_rate,1st quartile,2022-02-01,February 2022,,,5.4375
+neutral_key_rate,3rd quartile,2022-02-01,February 2022,,,6.0
+neutral_key_rate,90th percentile,2022-02-01,February 2022,,,6.0
+neutral_key_rate,Average,2022-02-01,February 2022,,,5.552083333333333
+neutral_key_rate,Max,2022-02-01,February 2022,,,6.5
+neutral_key_rate,Median,2022-02-01,February 2022,,,5.5
+neutral_key_rate,Min,2022-02-01,February 2022,,,4.5
+neutral_key_rate,Всего ответов,2022-02-01,February 2022,,,24.0
+neutral_key_rate,10th percentile,2022-03-01,March 2022,,,5.1
+neutral_key_rate,1st quartile,2022-03-01,March 2022,,,6.0
+neutral_key_rate,3rd quartile,2022-03-01,March 2022,,,7.5
+neutral_key_rate,90th percentile,2022-03-01,March 2022,,,9.600000000000001
+neutral_key_rate,Average,2022-03-01,March 2022,,,7.1923076923076925
+neutral_key_rate,Max,2022-03-01,March 2022,,,12.0
+neutral_key_rate,Median,2022-03-01,March 2022,,,7.0
+neutral_key_rate,Min,2022-03-01,March 2022,,,5.0
+neutral_key_rate,Всего ответов,2022-03-01,March 2022,,,13.0
+neutral_key_rate,10th percentile,2022-04-01,April 2022,,,5.05
+neutral_key_rate,1st quartile,2022-04-01,April 2022,,,5.625
+neutral_key_rate,3rd quartile,2022-04-01,April 2022,,,7.375
+neutral_key_rate,90th percentile,2022-04-01,April 2022,,,7.5
+neutral_key_rate,Average,2022-04-01,April 2022,,,6.7272727272727275
+neutral_key_rate,Max,2022-04-01,April 2022,,,12.0
+neutral_key_rate,Median,2022-04-01,April 2022,,,7.0
+neutral_key_rate,Min,2022-04-01,April 2022,,,4.5
+neutral_key_rate,Всего ответов,2022-04-01,April 2022,,,27.0
+neutral_key_rate,10th percentile,2022-06-01,June 2022,,,5.0
+neutral_key_rate,1st quartile,2022-06-01,June 2022,,,6.0
+neutral_key_rate,3rd quartile,2022-06-01,June 2022,,,7.0
+neutral_key_rate,90th percentile,2022-06-01,June 2022,,,7.5
+neutral_key_rate,Average,2022-06-01,June 2022,,,6.6
+neutral_key_rate,Max,2022-06-01,June 2022,,,10.0
+neutral_key_rate,Median,2022-06-01,June 2022,,,6.5
+neutral_key_rate,Min,2022-06-01,June 2022,,,5.0
+neutral_key_rate,Всего ответов,2022-06-01,June 2022,,,25.0
+neutral_key_rate,10th percentile,2022-07-01,July 2022,,,5.0
+neutral_key_rate,1st quartile,2022-07-01,July 2022,,,5.5
+neutral_key_rate,3rd quartile,2022-07-01,July 2022,,,7.0
+neutral_key_rate,90th percentile,2022-07-01,July 2022,,,7.300000000000001
+neutral_key_rate,Average,2022-07-01,July 2022,,,6.24
+neutral_key_rate,Max,2022-07-01,July 2022,,,8.0
+neutral_key_rate,Median,2022-07-01,July 2022,,,6.5
+neutral_key_rate,Min,2022-07-01,July 2022,,,5.0
+neutral_key_rate,Всего ответов,2022-07-01,July 2022,,,25.0
+neutral_key_rate,10th percentile,2022-09-01,September 2022,,,5.0
+neutral_key_rate,1st quartile,2022-09-01,September 2022,,,5.5
+neutral_key_rate,3rd quartile,2022-09-01,September 2022,,,6.0
+neutral_key_rate,90th percentile,2022-09-01,September 2022,,,6.75
+neutral_key_rate,Average,2022-09-01,September 2022,,,5.765384615384615
+neutral_key_rate,Max,2022-09-01,September 2022,,,7.0
+neutral_key_rate,Median,2022-09-01,September 2022,,,5.95
+neutral_key_rate,Min,2022-09-01,September 2022,,,3.0
+neutral_key_rate,Всего ответов,2022-09-01,September 2022,,,26.0
+neutral_key_rate,10th percentile,2022-10-01,October 2022,,,5.0
+neutral_key_rate,1st quartile,2022-10-01,October 2022,,,5.5
+neutral_key_rate,3rd quartile,2022-10-01,October 2022,,,6.125
+neutral_key_rate,90th percentile,2022-10-01,October 2022,,,6.5
+neutral_key_rate,Average,2022-10-01,October 2022,,,5.708333333333333
+neutral_key_rate,Max,2022-10-01,October 2022,,,7.0
+neutral_key_rate,Median,2022-10-01,October 2022,,,5.5
+neutral_key_rate,Min,2022-10-01,October 2022,,,3.0
+neutral_key_rate,Всего ответов,2022-10-01,October 2022,,,24.0
+neutral_key_rate,10th percentile,2022-12-01,December 2022,,,5.0
+neutral_key_rate,1st quartile,2022-12-01,December 2022,,,5.25
+neutral_key_rate,3rd quartile,2022-12-01,December 2022,,,6.0
+neutral_key_rate,90th percentile,2022-12-01,December 2022,,,6.5
+neutral_key_rate,Average,2022-12-01,December 2022,,,5.469565217391304
+neutral_key_rate,Max,2022-12-01,December 2022,,,7.0
+neutral_key_rate,Median,2022-12-01,December 2022,,,5.5
+neutral_key_rate,Min,2022-12-01,December 2022,,,1.5
+neutral_key_rate,Всего ответов,2022-12-01,December 2022,,,23.0
+neutral_key_rate,10th percentile,2023-02-01,February 2023,,,5.2
+neutral_key_rate,1st quartile,2023-02-01,February 2023,,,5.5
+neutral_key_rate,3rd quartile,2023-02-01,February 2023,,,6.5
+neutral_key_rate,90th percentile,2023-02-01,February 2023,,,6.800000000000001
+neutral_key_rate,Average,2023-02-01,February 2023,,,5.852
+neutral_key_rate,Max,2023-02-01,February 2023,,,7.0
+neutral_key_rate,Median,2023-02-01,February 2023,,,6.0
+neutral_key_rate,Min,2023-02-01,February 2023,,,3.0
+neutral_key_rate,Всего ответов,2023-02-01,February 2023,,,25.0
+neutral_key_rate,10th percentile,2023-03-01,March 2023,,,5.0
+neutral_key_rate,1st quartile,2023-03-01,March 2023,,,5.5
+neutral_key_rate,3rd quartile,2023-03-01,March 2023,,,6.5
+neutral_key_rate,90th percentile,2023-03-01,March 2023,,,6.5
+neutral_key_rate,Average,2023-03-01,March 2023,,,5.928571428571429
+neutral_key_rate,Max,2023-03-01,March 2023,,,7.0
+neutral_key_rate,Median,2023-03-01,March 2023,,,6.0
+neutral_key_rate,Min,2023-03-01,March 2023,,,4.0
+neutral_key_rate,Всего ответов,2023-03-01,March 2023,,,21.0
+neutral_key_rate,10th percentile,2023-04-01,April 2023,,,5.0
+neutral_key_rate,1st quartile,2023-04-01,April 2023,,,5.5
+neutral_key_rate,3rd quartile,2023-04-01,April 2023,,,6.0
+neutral_key_rate,90th percentile,2023-04-01,April 2023,,,6.65
+neutral_key_rate,Average,2023-04-01,April 2023,,,5.888888888888889
+neutral_key_rate,Max,2023-04-01,April 2023,,,7.0
+neutral_key_rate,Median,2023-04-01,April 2023,,,6.0
+neutral_key_rate,Min,2023-04-01,April 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-04-01,April 2023,,,18.0
+neutral_key_rate,10th percentile,2023-06-01,June 2023,,,5.05
+neutral_key_rate,1st quartile,2023-06-01,June 2023,,,5.625
+neutral_key_rate,3rd quartile,2023-06-01,June 2023,,,6.375
+neutral_key_rate,90th percentile,2023-06-01,June 2023,,,6.5
+neutral_key_rate,Average,2023-06-01,June 2023,,,5.9772727272727275
+neutral_key_rate,Max,2023-06-01,June 2023,,,7.0
+neutral_key_rate,Median,2023-06-01,June 2023,,,6.0
+neutral_key_rate,Min,2023-06-01,June 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-06-01,June 2023,,,22.0
+neutral_key_rate,10th percentile,2023-07-01,July 2023,,,5.0
+neutral_key_rate,1st quartile,2023-07-01,July 2023,,,5.5
+neutral_key_rate,3rd quartile,2023-07-01,July 2023,,,6.8
+neutral_key_rate,90th percentile,2023-07-01,July 2023,,,7.0
+neutral_key_rate,Average,2023-07-01,July 2023,,,6.1
+neutral_key_rate,Max,2023-07-01,July 2023,,,7.0
+neutral_key_rate,Median,2023-07-01,July 2023,,,6.0
+neutral_key_rate,Min,2023-07-01,July 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-07-01,July 2023,,,19.0
+neutral_key_rate,10th percentile,2023-09-01,September 2023,,,5.5
+neutral_key_rate,1st quartile,2023-09-01,September 2023,,,5.625
+neutral_key_rate,3rd quartile,2023-09-01,September 2023,,,6.5
+neutral_key_rate,90th percentile,2023-09-01,September 2023,,,7.0
+neutral_key_rate,Average,2023-09-01,September 2023,,,6.159090909090909
+neutral_key_rate,Max,2023-09-01,September 2023,,,8.0
+neutral_key_rate,Median,2023-09-01,September 2023,,,6.0
+neutral_key_rate,Min,2023-09-01,September 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-09-01,September 2023,,,22.0
+neutral_key_rate,10th percentile,2023-10-01,October 2023,,,5.5
+neutral_key_rate,1st quartile,2023-10-01,October 2023,,,6.0
+neutral_key_rate,3rd quartile,2023-10-01,October 2023,,,6.625
+neutral_key_rate,90th percentile,2023-10-01,October 2023,,,7.0
+neutral_key_rate,Average,2023-10-01,October 2023,,,6.270833333333333
+neutral_key_rate,Max,2023-10-01,October 2023,,,8.0
+neutral_key_rate,Median,2023-10-01,October 2023,,,6.0
+neutral_key_rate,Min,2023-10-01,October 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-10-01,October 2023,,,24.0
+neutral_key_rate,10th percentile,2023-12-01,December 2023,,,5.5
+neutral_key_rate,1st quartile,2023-12-01,December 2023,,,6.0
+neutral_key_rate,3rd quartile,2023-12-01,December 2023,,,7.0
+neutral_key_rate,90th percentile,2023-12-01,December 2023,,,8.0
+neutral_key_rate,Average,2023-12-01,December 2023,,,6.576923076923077
+neutral_key_rate,Max,2023-12-01,December 2023,,,8.5
+neutral_key_rate,Median,2023-12-01,December 2023,,,6.5
+neutral_key_rate,Min,2023-12-01,December 2023,,,5.0
+neutral_key_rate,Всего ответов,2023-12-01,December 2023,,,26.0
+neutral_key_rate,10th percentile,2024-02-01,February 2024,,,5.8
+neutral_key_rate,1st quartile,2024-02-01,February 2024,,,6.25
+neutral_key_rate,3rd quartile,2024-02-01,February 2024,,,7.75
+neutral_key_rate,90th percentile,2024-02-01,February 2024,,,8.0
+neutral_key_rate,Average,2024-02-01,February 2024,,,6.925925925925926
+neutral_key_rate,Max,2024-02-01,February 2024,,,11.0
+neutral_key_rate,Median,2024-02-01,February 2024,,,7.0
+neutral_key_rate,Min,2024-02-01,February 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-02-01,February 2024,,,27.0
+neutral_key_rate,10th percentile,2024-03-01,March 2024,,,5.7
+neutral_key_rate,1st quartile,2024-03-01,March 2024,,,6.5
+neutral_key_rate,3rd quartile,2024-03-01,March 2024,,,8.0
+neutral_key_rate,90th percentile,2024-03-01,March 2024,,,8.0
+neutral_key_rate,Average,2024-03-01,March 2024,,,7.0
+neutral_key_rate,Max,2024-03-01,March 2024,,,10.0
+neutral_key_rate,Median,2024-03-01,March 2024,,,7.0
+neutral_key_rate,Min,2024-03-01,March 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-03-01,March 2024,,,25.0
+neutral_key_rate,10th percentile,2024-04-01,April 2024,,,6.0
+neutral_key_rate,1st quartile,2024-04-01,April 2024,,,6.5
+neutral_key_rate,3rd quartile,2024-04-01,April 2024,,,8.0
+neutral_key_rate,90th percentile,2024-04-01,April 2024,,,8.0
+neutral_key_rate,Average,2024-04-01,April 2024,,,7.145833333333333
+neutral_key_rate,Max,2024-04-01,April 2024,,,8.5
+neutral_key_rate,Median,2024-04-01,April 2024,,,7.0
+neutral_key_rate,Min,2024-04-01,April 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-04-01,April 2024,,,24.0
+neutral_key_rate,10th percentile,2024-05-01,May 2024,,,6.0
+neutral_key_rate,1st quartile,2024-05-01,May 2024,,,7.0
+neutral_key_rate,3rd quartile,2024-05-01,May 2024,,,8.0
+neutral_key_rate,90th percentile,2024-05-01,May 2024,,,8.5
+neutral_key_rate,Average,2024-05-01,May 2024,,,7.615384615384615
+neutral_key_rate,Max,2024-05-01,May 2024,,,15.0
+neutral_key_rate,Median,2024-05-01,May 2024,,,7.5
+neutral_key_rate,Min,2024-05-01,May 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-05-01,May 2024,,,26.0
+neutral_key_rate,10th percentile,2024-07-01,July 2024,,,6.0
+neutral_key_rate,1st quartile,2024-07-01,July 2024,,,7.0
+neutral_key_rate,3rd quartile,2024-07-01,July 2024,,,8.0
+neutral_key_rate,90th percentile,2024-07-01,July 2024,,,8.5
+neutral_key_rate,Average,2024-07-01,July 2024,,,7.4655172413793105
+neutral_key_rate,Max,2024-07-01,July 2024,,,10.0
+neutral_key_rate,Median,2024-07-01,July 2024,,,7.5
+neutral_key_rate,Min,2024-07-01,July 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-07-01,July 2024,,,29.0
+neutral_key_rate,10th percentile,2024-09-01,September 2024,,,6.0
+neutral_key_rate,1st quartile,2024-09-01,September 2024,,,7.0
+neutral_key_rate,3rd quartile,2024-09-01,September 2024,,,8.5
+neutral_key_rate,90th percentile,2024-09-01,September 2024,,,9.0
+neutral_key_rate,Average,2024-09-01,September 2024,,,7.8
+neutral_key_rate,Max,2024-09-01,September 2024,,,12.0
+neutral_key_rate,Median,2024-09-01,September 2024,,,8.0
+neutral_key_rate,Min,2024-09-01,September 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-09-01,September 2024,,,25.0
+neutral_key_rate,10th percentile,2024-10-01,October 2024,,,6.0
+neutral_key_rate,1st quartile,2024-10-01,October 2024,,,7.0
+neutral_key_rate,3rd quartile,2024-10-01,October 2024,,,8.0
+neutral_key_rate,90th percentile,2024-10-01,October 2024,,,9.0
+neutral_key_rate,Average,2024-10-01,October 2024,,,7.74
+neutral_key_rate,Max,2024-10-01,October 2024,,,12.0
+neutral_key_rate,Median,2024-10-01,October 2024,,,8.0
+neutral_key_rate,Min,2024-10-01,October 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-10-01,October 2024,,,25.0
+neutral_key_rate,10th percentile,2024-12-01,December 2024,,,6.4
+neutral_key_rate,1st quartile,2024-12-01,December 2024,,,7.0
+neutral_key_rate,3rd quartile,2024-12-01,December 2024,,,9.0
+neutral_key_rate,90th percentile,2024-12-01,December 2024,,,9.0
+neutral_key_rate,Average,2024-12-01,December 2024,,,8.224137931034482
+neutral_key_rate,Max,2024-12-01,December 2024,,,16.0
+neutral_key_rate,Median,2024-12-01,December 2024,,,8.0
+neutral_key_rate,Min,2024-12-01,December 2024,,,5.0
+neutral_key_rate,Всего ответов,2024-12-01,December 2024,,,29.0
+neutral_key_rate,10th percentile,2025-02-01,February 2025,,,7.0
+neutral_key_rate,1st quartile,2025-02-01,February 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-02-01,February 2025,,,9.0
+neutral_key_rate,90th percentile,2025-02-01,February 2025,,,9.0
+neutral_key_rate,Average,2025-02-01,February 2025,,,8.12
+neutral_key_rate,Max,2025-02-01,February 2025,,,11.5
+neutral_key_rate,Median,2025-02-01,February 2025,,,8.0
+neutral_key_rate,Min,2025-02-01,February 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-02-01,February 2025,,,25.0
+neutral_key_rate,10th percentile,2025-03-01,March 2025,,,7.0
+neutral_key_rate,1st quartile,2025-03-01,March 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-03-01,March 2025,,,9.0
+neutral_key_rate,90th percentile,2025-03-01,March 2025,,,9.400000000000002
+neutral_key_rate,Average,2025-03-01,March 2025,,,8.314814814814815
+neutral_key_rate,Max,2025-03-01,March 2025,,,14.0
+neutral_key_rate,Median,2025-03-01,March 2025,,,8.0
+neutral_key_rate,Min,2025-03-01,March 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-03-01,March 2025,,,27.0
+neutral_key_rate,10th percentile,2025-04-01,April 2025,,,7.0
+neutral_key_rate,1st quartile,2025-04-01,April 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-04-01,April 2025,,,9.0
+neutral_key_rate,90th percentile,2025-04-01,April 2025,,,9.8
+neutral_key_rate,Average,2025-04-01,April 2025,,,8.38
+neutral_key_rate,Max,2025-04-01,April 2025,,,15.0
+neutral_key_rate,Median,2025-04-01,April 2025,,,8.0
+neutral_key_rate,Min,2025-04-01,April 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-04-01,April 2025,,,25.0
+neutral_key_rate,10th percentile,2025-05-01,May 2025,,,7.0
+neutral_key_rate,1st quartile,2025-05-01,May 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-05-01,May 2025,,,8.5
+neutral_key_rate,90th percentile,2025-05-01,May 2025,,,9.0
+neutral_key_rate,Average,2025-05-01,May 2025,,,8.08
+neutral_key_rate,Max,2025-05-01,May 2025,,,11.5
+neutral_key_rate,Median,2025-05-01,May 2025,,,8.0
+neutral_key_rate,Min,2025-05-01,May 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-05-01,May 2025,,,25.0
+neutral_key_rate,10th percentile,2025-07-01,July 2025,,,7.0
+neutral_key_rate,1st quartile,2025-07-01,July 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-07-01,July 2025,,,8.625
+neutral_key_rate,90th percentile,2025-07-01,July 2025,,,9.65
+neutral_key_rate,Average,2025-07-01,July 2025,,,8.25
+neutral_key_rate,Max,2025-07-01,July 2025,,,13.0
+neutral_key_rate,Median,2025-07-01,July 2025,,,8.0
+neutral_key_rate,Min,2025-07-01,July 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-07-01,July 2025,,,28.0
+neutral_key_rate,10th percentile,2025-09-01,September 2025,,,7.0
+neutral_key_rate,1st quartile,2025-09-01,September 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-09-01,September 2025,,,8.5
+neutral_key_rate,90th percentile,2025-09-01,September 2025,,,10.0
+neutral_key_rate,Average,2025-09-01,September 2025,,,8.30952380952381
+neutral_key_rate,Max,2025-09-01,September 2025,,,12.0
+neutral_key_rate,Median,2025-09-01,September 2025,,,8.0
+neutral_key_rate,Min,2025-09-01,September 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-09-01,September 2025,,,21.0
+neutral_key_rate,10th percentile,2025-10-01,October 2025,,,7.0
+neutral_key_rate,1st quartile,2025-10-01,October 2025,,,7.5
+neutral_key_rate,3rd quartile,2025-10-01,October 2025,,,8.5
+neutral_key_rate,90th percentile,2025-10-01,October 2025,,,9.0
+neutral_key_rate,Average,2025-10-01,October 2025,,,7.98
+neutral_key_rate,Max,2025-10-01,October 2025,,,10.0
+neutral_key_rate,Median,2025-10-01,October 2025,,,8.0
+neutral_key_rate,Min,2025-10-01,October 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-10-01,October 2025,,,25.0
+neutral_key_rate,10th percentile,2025-12-01,December 2025,,,7.0
+neutral_key_rate,1st quartile,2025-12-01,December 2025,,,7.75
+neutral_key_rate,3rd quartile,2025-12-01,December 2025,,,8.5
+neutral_key_rate,90th percentile,2025-12-01,December 2025,,,9.200000000000001
+neutral_key_rate,Average,2025-12-01,December 2025,,,8.055555555555555
+neutral_key_rate,Max,2025-12-01,December 2025,,,10.0
+neutral_key_rate,Median,2025-12-01,December 2025,,,8.0
+neutral_key_rate,Min,2025-12-01,December 2025,,,5.0
+neutral_key_rate,Всего ответов,2025-12-01,December 2025,,,27.0
+neutral_key_rate,10th percentile,2026-02-01,February 2026,,,7.25
+neutral_key_rate,1st quartile,2026-02-01,February 2026,,,8.0
+neutral_key_rate,3rd quartile,2026-02-01,February 2026,,,8.375
+neutral_key_rate,90th percentile,2026-02-01,February 2026,,,9.5
+neutral_key_rate,Average,2026-02-01,February 2026,,,8.076923076923077
+neutral_key_rate,Max,2026-02-01,February 2026,,,10.0
+neutral_key_rate,Median,2026-02-01,February 2026,,,8.0
+neutral_key_rate,Min,2026-02-01,February 2026,,,5.0
+neutral_key_rate,Всего ответов,2026-02-01,February 2026,,,26.0
+neutral_key_rate,10th percentile,2026-03-01,March 2026,,,7.2
+neutral_key_rate,1st quartile,2026-03-01,March 2026,,,8.0
+neutral_key_rate,3rd quartile,2026-03-01,March 2026,,,8.5
+neutral_key_rate,90th percentile,2026-03-01,March 2026,,,10.0
+neutral_key_rate,Average,2026-03-01,March 2026,,,8.18
+neutral_key_rate,Max,2026-03-01,March 2026,,,10.0
+neutral_key_rate,Median,2026-03-01,March 2026,,,8.0
+neutral_key_rate,Min,2026-03-01,March 2026,,,5.0
+neutral_key_rate,Всего ответов,2026-03-01,March 2026,,,25.0
+neutral_key_rate,10th percentile,2026-04-01,April 2026,,,7.0
+neutral_key_rate,1st quartile,2026-04-01,April 2026,,,8.0
+neutral_key_rate,3rd quartile,2026-04-01,April 2026,,,8.5
+neutral_key_rate,90th percentile,2026-04-01,April 2026,,,9.3
+neutral_key_rate,Average,2026-04-01,April 2026,,,8.02
+neutral_key_rate,Max,2026-04-01,April 2026,,,10.0
+neutral_key_rate,Median,2026-04-01,April 2026,,,8.0
+neutral_key_rate,Min,2026-04-01,April 2026,,,5.0
+neutral_key_rate,Всего ответов,2026-04-01,April 2026,,,25.0
