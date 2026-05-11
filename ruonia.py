@@ -10,7 +10,7 @@ CLEAN_DIR = Path(__file__).resolve().parent
 DATA_DIR = CLEAN_DIR / "data"
 OUTPUT_DIR = CLEAN_DIR / "output"
 RUONIA_1M_PATH = DATA_DIR / "ruonia_1M.csv"
-RUONIA_MONTHLY_PATH = OUTPUT_DIR / "ruonia_1m_monthly.csv"
+RUONIA_MONTHLY_PATH = DATA_DIR / "ruonia_1m_monthly.csv"
 def load_ruonia_1m(path: str | Path = RUONIA_1M_PATH) -> pd.DataFrame:
     raw = pd.read_csv(path)
     raw = raw.rename(columns={"Дата": "date", "1 месяц": "ruonia_1m_pct"})
@@ -30,12 +30,13 @@ def build_ruonia_monthly(raw_df: pd.DataFrame | None = None) -> pd.DataFrame:
     monthly = (
         raw_df.assign(month_end=raw_df["date"].dt.to_period("M").dt.to_timestamp("M"))
         .groupby("month_end", as_index=False)["ruonia_1m_pct"]
-        .mean()
+        .last()
+        # .mean()
         .sort_values("month_end")
         .reset_index(drop=True)
     )
     monthly["month"] = monthly["month_end"].dt.to_period("M").astype(str)
-    monthly["short_rate_monthly_cc"] = np.log1p(monthly["ruonia_1m_pct"] / 100.0) / 12.0
+    monthly["short_rate_monthly_cc"] = np.log1p(monthly["ruonia_1m_pct"] / 100.0)  / 12.0
     return monthly[["month", "month_end", "ruonia_1m_pct", "short_rate_monthly_cc"]]
 
 
