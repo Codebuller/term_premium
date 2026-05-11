@@ -11,14 +11,6 @@ import pandas as pd
 CLEAN_DIR = Path(__file__).resolve().parent
 DATA_DIR = CLEAN_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
-WORKSPACE_BUNDLED_SITE_PACKAGES = Path(
-    "/Users/codebuller/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages"
-)
-
-if WORKSPACE_BUNDLED_SITE_PACKAGES.exists():
-    bundled_path = str(WORKSPACE_BUNDLED_SITE_PACKAGES)
-    if bundled_path not in sys.path:
-        sys.path.insert(0, bundled_path)
 
 DEFAULT_CBR_MACRO_SURVEY_URL = "https://cbr.ru/Content/Document/File/144490/full.xlsx"
 DEFAULT_CBR_MACRO_SURVEY_PATH = RAW_DIR / "cbr_macro_survey.xlsx"

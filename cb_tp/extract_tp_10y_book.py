@@ -18,7 +18,7 @@ X_RIGHT = 1711
 Y_MAX = 5.3
 Y_TICK = 0.5
 START_DATE = "2003-01-31"
-END_DATE = "2025-10-31"
+END_DATE = "2025-02-28"
 
 
 def load_image() -> np.ndarray:

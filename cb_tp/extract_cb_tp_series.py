@@ -21,7 +21,7 @@ class ChartSpec:
     y_max: float
     y_tick: float
     start_date: str = "2015-01-31"
-    end_date: str = "2024-10-31"
+    end_date: str = "2024-05-31"
 
 
 SPECS = (
